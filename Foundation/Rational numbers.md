@@ -1,4 +1,6 @@
-# Rational numbers
+# $\mathbb{Q}$ -- rational numbers 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTE5MzY4N119
+eyJoaXN0b3J5IjpbLTEyMDk0NjYxOTZdfQ==
 -->
