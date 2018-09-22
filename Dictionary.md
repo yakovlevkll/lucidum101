@@ -1,6 +1,10 @@
 # Dictionary
 
 ## Whole numbers
+Русский | English
+- | -
+чётный | even
+нечётный | odd
 
 ## Rational numbers
 Русский | English
@@ -23,5 +27,5 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU3NTI3OCwyODYwNjUzODZdfQ==
+eyJoaXN0b3J5IjpbMTI2NjEyNjk2NSwyODYwNjUzODZdfQ==
 -->
