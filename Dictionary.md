@@ -1,10 +1,16 @@
 # Dictionary
 
 ## Whole numbers
-Русский | English
-- | -
-чётный | even
-нечётный | odd
+```yaml
+even: чётный
+odd: нечётный
+prime number: простое число,
+factorization: факторизация,
+composite: составное,
+GCF: больший общий делитель,
+multiple: кратное,
+coprime integers: взаимно простые
+```
 
 ## Rational numbers
 Русский | English

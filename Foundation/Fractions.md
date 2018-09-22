@@ -350,9 +350,9 @@ $(\dfrac{21}{24}+\dfrac{16}{48})_b_\dfrac{1}{10}=$
 
 $(\dfrac{33}{11}:\dfrac{3}{7})=$
 
-John has \$$600$. He gives $\fr{1}{4}$ to charity. He spends $\fr{2}{3}$ of it. He saves half of the rest. What fraction does he save?
+John has \$$600$. He gives $\frac{1}{4}$ to charity. He spends $\frac{2}{3}$ of it. He saves half of the rest. What fraction does he save?
 
-In a fridge there are two cartoons of milk. One contains $\fr{2}{3}$ of a litre. The other contains $\fr{1}{4}$ of a litre.
+In a fridge there are two cartoons of milk. One contains $\frac{2}{3}$ of a litre. The other contains $\frac{1}{4}$ of a litre.
 
 @ol
 
@@ -360,9 +360,9 @@ How much milk is there altogether?
 Milk is poured from one carton to the other so that they both contain the same amount.
 How much milk was poured into the other carton? Give your answer as a fraction of a litre.
 
-In a book, $\fr{1}{12}$ of the space on the pages is taken up by photographs, $\fr{2}{3}$ is filled with text and the rest has diagrams. What fraction of the book is taken up with diagrams? Give your answer in its simplest form.
+In a book, $\frac{1}{12}$ of the space on the pages is taken up by photographs, $\frac{2}{3}$ is filled with text and the rest has diagrams. What fraction of the book is taken up with diagrams? Give your answer in its simplest form.
 
-A survey of the pupils in one class showed that $\fr{3}{5}$ of them walked to school, $\fr{1}{4}$ came by bus and rest came by car. What fraction of the class came by car?
+A survey of the pupils in one class showed that $\frac{3}{5}$ of them walked to school, $\frac{1}{4}$ came by bus and rest came by car. What fraction of the class came by car?
 
 Решите неравенства
 
