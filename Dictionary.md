@@ -1,15 +1,16 @@
-# Dictionary
+# Словарь Dictionary
 
 ## Целые числа
 ```yaml
 integer: целое число
 even: чётный
 odd: нечётный
-prime number: простое число,
 factorization: факторизация,
 composite: составное,
 GCF: больший общий делитель,
+factor: 
 multiple: кратное,
+prime number: простое число,
 coprime integers: взаимно простые
 ```
 
@@ -34,6 +35,6 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTMwNDk4NCwxMjY2MTI2OTY1LDI4Nj
-A2NTM4Nl19
+eyJoaXN0b3J5IjpbLTE5MDc1MjUwOTUsMTI2NjEyNjk2NSwyOD
+YwNjUzODZdfQ==
 -->
