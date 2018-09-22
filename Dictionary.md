@@ -1,21 +1,22 @@
-# Словарь Dictionary
+# Словарь
 
 ## Целые числа
 ```yaml
 integer: целое число
 even: чётный
 odd: нечётный
-factorization: факторизация,
-composite: составное,
-GCF: больший общий делитель,
+factorization: факторизация
+composite: составное
+GCF: больший общий делитель
 factor: 
-multiple: кратное,
-prime number: простое число,
+multiple: кратное
+prime number: простое число
 coprime integers: взаимно простые
 ```
 
-## Rational numbers
+## Рациональные числа
 ```yaml
+rational: рациональный
 divisibility: делимость
 fraction: обыкновенная дробь
 decimal: десятичная дробь
@@ -35,6 +36,6 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc1MjUwOTUsMTI2NjEyNjk2NSwyOD
-YwNjUzODZdfQ==
+eyJoaXN0b3J5IjpbLTk1OTA2NTQ4MCwxMjY2MTI2OTY1LDI4Nj
+A2NTM4Nl19
 -->
