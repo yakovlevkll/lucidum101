@@ -13,13 +13,13 @@ coprime integers: взаимно простые
 ```
 
 ## Rational numbers
-Русский | English
-- | -
+```yaml
 делимость| divisibility
 обыкновенная дробь | fraction
 десятичная дробь | deximal
 взаимно обратное число | reciprocal
 сокращение дробей | cancel out
+```
 
 @ul
 _one half_
@@ -33,5 +33,6 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjEyNjk2NSwyODYwNjUzODZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTczNzM4OTMsMTI2NjEyNjk2NSwyOD
+YwNjUzODZdfQ==
 -->
