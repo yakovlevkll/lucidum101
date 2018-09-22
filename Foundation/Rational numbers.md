@@ -1,6 +1,6 @@
-# $\mathbb{Q}$ -- rational numbers 
-
+# Rational numbers 
+$\mathbb{Q}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk0NjYxOTZdfQ==
+eyJoaXN0b3J5IjpbMTg4NzkyMTAwNl19
 -->
