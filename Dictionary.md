@@ -1,6 +1,8 @@
-#
+# Dictionary
 
-# Rational
+## Whole numbers
+
+## Rational numbers
 обыкновенная дробь - fraction
 десятичная дробь - deximal
 взаимно обратное число - reciprocal
@@ -16,6 +18,7 @@ _etc._
 двадцать пять сотых, _one quarter or one fourth, twenty-five hundredths, point two five etc._
 Тринадцать целых пять тысячных, _thirteen and three thousandths, thirteen point oh oh three, thirteen point zero zero three etc._
 
+## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjUyNjIxM119
+eyJoaXN0b3J5IjpbMjg2MDY1Mzg2XX0=
 -->
