@@ -3,10 +3,13 @@
 ## Whole numbers
 
 ## Rational numbers
-обыкновенная дробь - fraction
-десятичная дробь - deximal
-взаимно обратное число - reciprocal
-сокращение дробей - cancel out
+Русский | English
+- | -
+делимость| divisibility
+обыкновенная дробь | fraction
+десятичная дробь | deximal
+взаимно обратное число | reciprocal
+сокращение дробей | cancel out
 
 @ul
 _one half_
@@ -20,5 +23,5 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MDY1Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE5MTU3NTI3OCwyODYwNjUzODZdfQ==
 -->
