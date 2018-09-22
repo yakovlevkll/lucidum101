@@ -1,7 +1,8 @@
 # Dictionary
 
-## Whole numbers
+## Целые числа
 ```yaml
+integer: целое число
 even: чётный
 odd: нечётный
 prime number: простое число,
@@ -14,11 +15,11 @@ coprime integers: взаимно простые
 
 ## Rational numbers
 ```yaml
-делимость| divisibility
-обыкновенная дробь | fraction
-десятичная дробь | deximal
-взаимно обратное число | reciprocal
-сокращение дробей | cancel out
+divisibility: делимость
+fraction: обыкновенная дробь
+decimal: десятичная дробь
+reciprocal: взаимно обратное число
+cancel out: сокращение дробей
 ```
 
 @ul
@@ -33,6 +34,6 @@ _etc._
 
 ## Irrational numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTczNzM4OTMsMTI2NjEyNjk2NSwyOD
-YwNjUzODZdfQ==
+eyJoaXN0b3J5IjpbMTEyNTMwNDk4NCwxMjY2MTI2OTY1LDI4Nj
+A2NTM4Nl19
 -->
