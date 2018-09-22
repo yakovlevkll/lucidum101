@@ -1,3 +1,5 @@
+# Комбинаторика
+
 Bethany, Chun, Dominic, and Emily go to the movies. They choose a row with four consecutive empty seats. If Dominic and Emily must sit beside each other, in how many different ways can the four friends sit?
 (A) 6
 (B) 5
@@ -30,3 +32,6 @@ The 8 people at a party shook hands exactly once with each of the others before 
 Сколько различных дробей можно составить из чисел 3, 5, 7, 11, 13, 17 так, чтобы в каждую дробь входили 2 различных числа? Сколько среди них будет правильных дробей?
 Сколько слов можно получить, переставляя буквы в слове Гора и Институт?
 Каких чисел от 1 до 1 000 000 больше: тех, в записи которых встречается единица, или тех, в которых она не встречается?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ1MTQ1MjQxMV19
+-->
