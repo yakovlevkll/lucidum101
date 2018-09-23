@@ -9,7 +9,7 @@ $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 Время подставлять!
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
 
-Приставки для образования десятичных единиц
+Приставки для образования десятичных кратных и дольных единиц
 Множитель | Приставка | Обозначение
 - | - | -
 10^15 | P | peta
@@ -27,7 +27,8 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 10^-9 | n | nano
 10^-10 | Å | Angstrom
 10^-12 | P | pico
+10^-12 | P | pico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNDIyMDI4LC0xMTE4NzI3NDk1LDcxMT
+eyJoaXN0b3J5IjpbLTE1NjE0NTI5LC0xMTE4NzI3NDk1LDcxMT
 g1ODY0NiwtMjE2NTEyNDUsMTcwMjE2MTI3MV19
 -->
