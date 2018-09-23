@@ -11,22 +11,22 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 
 Приставки для образования десятичных единиц
 | Приставка | Обозначение | Множитель |  | | | | 
-peta | P | 10^15
-tera | T | 10^12
-giga | G | 10^9
-mega | M | 10^6
-kilo | k | 10^3
-hecto | h | 10^2
-deka | da  10^1
-base unit | 10^0
-deci | d | 10^-1
-centi | c | 10^-2
-milli | m | 10^-3
-micro | M | 10^-6
-nano | n | 10^-9
-Angstrom | A | 10^-10
-pico | P | 10^-12
+peta | P | 10^15 | peta | P
+tera | T | 10^12 | tera | T
+giga | G | 10^9 | giga | G
+mega | M | 10^6 | mega | M
+kilo | k | 10^3 | kilo | k
+hecto | h | 10^2 | hecto | h
+deka | da | 10^1 | deka | da
+base unit | 10^0 | base unit
+deci | d | 10^-1 | deci | d
+centi | c | 10^-2 | centi | c
+milli | m | 10^-3 | milli | m
+micro | M | 10^-6 | micro | M
+nano | n | 10^-9 | nano | n
+Angstrom | A | 10^-10 | Angstrom | A
+pico | P | 10^-12 | pico | P
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExODU4NjQ2LC0yMTY1MTI0NSwxNzAyMT
-YxMjcxXX0=
+eyJoaXN0b3J5IjpbLTExMTg3Mjc0OTUsNzExODU4NjQ2LC0yMT
+Y1MTI0NSwxNzAyMTYxMjcxXX0=
 -->
