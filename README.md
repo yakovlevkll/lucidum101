@@ -1,22 +1,22 @@
 # Essence elements
 _The basics of humankind knowledge._
 
-## Fundamentals
-- applied math - level 1
-- physics and chemistry - level 1
+## Foundation
+- applied math I
+- physics and chemistry I
 
-## Ground floor
-- applied math - level 2 (3blue1brown)
-- physics - level 2
+## Ground level
+- applied math II (3blue1brown)
+- physics II
 - social science
 - computer science
 - biology
 
-## 1st floor
+## Level 1
 - coding
 - 3d modeling
 
-## 2nd floor
+## Level 2
 - video-editing
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk0MDUzMzA2MF19
