@@ -8,6 +8,8 @@ $1\ cm = 10^{-1}\ dm$
 $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 Время подставлять!
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjE2MTI3MV19
+eyJoaXN0b3J5IjpbLTIxNjUxMjQ1LDE3MDIxNjEyNzFdfQ==
 -->
