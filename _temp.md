@@ -14,7 +14,7 @@ $q(x)=\dfrac{2-x}{2x+3}$|   |
   |  |  |  | $r^{-1}(x)=\dfrac{2+x}{6x-1}$ |  |
 
 # Тесты
-## Лицей "<Вторая школа">
+## Лицей "Вторая школа"
 Тест составлен на основе документов, выложенных на официальном сайте школы.
 
 @ol
@@ -221,5 +221,6 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
+eyJoaXN0b3J5IjpbLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNywtMT
+gzMjY4NzUyMF19
 -->
