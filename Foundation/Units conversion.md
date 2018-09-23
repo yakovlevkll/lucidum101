@@ -10,8 +10,8 @@ $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
 
 Приставки СИ
-Множитель | Приставка | Обозначение | | 
-- | - | -
+Множитель | Приставка | Обозначение | Symbol | Text
+- | - | - | - | -
 10^15^ | П | пета | P | peta
 10^12^ | Т | тера | T | tera
 10^9^ | Г | гига | G | giga
@@ -28,9 +28,10 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 10^-12^ | p | pico | p | pico
 10^-15^ | f | femto | f | femto
 
+
 10^-10^ | Å | ангстрем | 10^-10^ | Å | Angstrom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjc4ODUyNSw5NDkzMjIwNDEsLTExMT
+eyJoaXN0b3J5IjpbMTY3Mzg2NDI5Miw5NDkzMjIwNDEsLTExMT
 g3Mjc0OTUsNzExODU4NjQ2LC0yMTY1MTI0NSwxNzAyMTYxMjcx
 XX0=
 -->
