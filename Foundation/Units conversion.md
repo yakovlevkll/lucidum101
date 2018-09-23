@@ -10,23 +10,24 @@ $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
 
 Приставки для образования десятичных единиц
-| Приставка | Обозначение | Множитель |  | | | | 
-peta | P | 10^15 | peta | P
-tera | T | 10^12 | tera | T
-giga | G | 10^9 | giga | G
-mega | M | 10^6 | mega | M
-kilo | k | 10^3 | kilo | k
-hecto | h | 10^2 | hecto | h
-deka | da | 10^1 | deka | da
-base unit | 10^0 | base unit
-deci | d | 10^-1 | deci | d
-centi | c | 10^-2 | centi | c
-milli | m | 10^-3 | milli | m
-micro | M | 10^-6 | micro | M
-nano | n | 10^-9 | nano | n
-Angstrom | A | 10^-10 | Angstrom | A
-pico | P | 10^-12 | pico | P
+Множитель | Приставка | Обозначение
+- | - | -
+10^15 | P | peta
+10^12 | T | tera
+10^9 | G | giga
+10^6 | M | mega
+10^3 | k | kilo
+10^2 | h | hecto
+10^1 | da | deka
+10^0 | | base unit
+10^-1 | d | deci
+10^-2 | c | centi
+10^-3 | m | milli
+10^-6 | M | micro
+10^-9 | n | nano
+10^-10 | A | Angstrom
+10^-12 | P | pico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3Mjc0OTUsNzExODU4NjQ2LC0yMT
-Y1MTI0NSwxNzAyMTYxMjcxXX0=
+eyJoaXN0b3J5IjpbLTY4MjI1NDE4NSwtMTExODcyNzQ5NSw3MT
+E4NTg2NDYsLTIxNjUxMjQ1LDE3MDIxNjEyNzFdfQ==
 -->
