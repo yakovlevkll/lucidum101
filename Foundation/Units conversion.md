@@ -12,20 +12,20 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 Приставки для образования десятичных кратных и дольных единиц
 Множитель | Приставка | Обозначение
 - | - | -
-10^15^ | P | пета
-10^12^ | T | терра
-10^9^ | G | гига
-10^6^ | M | мега
-10^3^ | k | кило
-10^2^ | h | гекто
+10^15^ | П | пета
+10^12^ | Т | тера
+10^9^ | Г | гига
+10^6^ | М | мега
+10^3^ | к | кило
+10^2^ | г | гекто
 10^1^ | да | дека
 10^0^ | | base unit
 10^-1^ | дц | деци
 10^-2^ | с | санти
 10^-3^ | м | милли
 10^-6^ | мк | микро
-10^-9^ | n | nano
-10^-10^ | Å | Angstrom
+10^-9^ | н | нано
+10^-10^ | Å | ангстрем
 10^-12^ | p | pico
 10^-15^ | f | femto
 
@@ -49,6 +49,6 @@ SI prefixes
 10^-12^ | p | pico
 10^-15^ | f | femto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjgwMzk0MSwtMTExODcyNzQ5NSw3MT
-E4NTg2NDYsLTIxNjUxMjQ1LDE3MDIxNjEyNzFdfQ==
+eyJoaXN0b3J5IjpbOTQ5MzIyMDQxLC0xMTE4NzI3NDk1LDcxMT
+g1ODY0NiwtMjE2NTEyNDUsMTcwMjE2MTI3MV19
 -->
