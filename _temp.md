@@ -8,7 +8,7 @@ Function | Domain | Range | Inverse | Domain | Range
 ---|---|---|---|---|---|
 $f(x)=\dfrac3{x+1}$|   |
   |  |  |  | $g^{-1}(x)=\sqrt{\dfrac{x+7}3}$ |  |
-$h(x)=\sqrt{3x+1}$ | $x\geq-\dfrac13$ |
+$h(x)=\sqrt{3x+1}$ |  |
   |  |  |  | $p^{-1}(x)=\dfrac{3-x}2$ |  |
 $q(x)=\dfrac{2-x}{2x+3}$|   |
   |  |  |  | $r^{-1}(x)=\dfrac{2+x}{6x-1}$ |  |
@@ -221,5 +221,5 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
 -->
