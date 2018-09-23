@@ -23,11 +23,11 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 10^-1 | d | deci
 10^-2 | c | centi
 10^-3 | m | milli
-10^-6 | M | micro
+10^-6 | $\mu$ | micro
 10^-9 | n | nano
-10^-10 | A | Angstrom
+10^-10 | $\AA$ | Angstrom
 10^-12 | P | pico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjI1NDE4NSwtMTExODcyNzQ5NSw3MT
-E4NTg2NDYsLTIxNjUxMjQ1LDE3MDIxNjEyNzFdfQ==
+eyJoaXN0b3J5IjpbNTYwNjY1OTE3LC0xMTE4NzI3NDk1LDcxMT
+g1ODY0NiwtMjE2NTEyNDUsMTcwMjE2MTI3MV19
 -->
