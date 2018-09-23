@@ -9,46 +9,28 @@ $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 Время подставлять!
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
 
-Приставки для образования десятичных кратных и дольных единиц
-Множитель | Приставка | Обозначение
+Приставки СИ
+Множитель | Приставка | Обозначение | | 
 - | - | -
-10^15^ | П | пета
-10^12^ | Т | тера
-10^9^ | Г | гига
-10^6^ | М | мега
-10^3^ | к | кило
-10^2^ | г | гекто
-10^1^ | да | дека
-10^0^ | | base unit
-10^-1^ | дц | деци
-10^-2^ | с | санти
-10^-3^ | м | милли
-10^-6^ | мк | микро
-10^-9^ | н | нано
-10^-10^ | Å | ангстрем
-10^-12^ | p | pico
-10^-15^ | f | femto
+10^15^ | П | пета | P | peta
+10^12^ | Т | тера | T | tera
+10^9^ | Г | гига | G | giga
+10^6^ | М | мега | M | mega
+10^3^ | к | кило | k | kilo
+10^2^ | г | гекто | h | hecto
+10^1^ | да | дека | da | deka
+10^0^ | | | | 
+10^-1^ | дц | деци | d | deci
+10^-2^ | с | санти | c | centi
+10^-3^ | м | милли | m | milli
+10^-6^ | мк | микро | $\mu$ | micro
+10^-9^ | н | нано | n | nano
+10^-12^ | p | pico | p | pico
+10^-15^ | f | femto | f | femto
 
-SI prefixes
-Множитель | Приставка | Обозначение
-- | - | -
-10^15^ | P | peta
-10^12^ | T | tera
-10^9^ | G | giga
-10^6^ | M | mega
-10^3^ | k | kilo
-10^2^ | h | hecto
-10^1^ | da | deka
-10^0^ | | base unit
-10^-1^ | d | deci
-10^-2^ | c | centi
-10^-3^ | m | milli
-10^-6^ | $\mu$ | micro
-10^-9^ | n | nano
-10^-10^ | Å | Angstrom
-10^-12^ | p | pico
-10^-15^ | f | femto
+10^-10^ | Å | ангстрем | 10^-10^ | Å | Angstrom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5MzIyMDQxLC0xMTE4NzI3NDk1LDcxMT
-g1ODY0NiwtMjE2NTEyNDUsMTcwMjE2MTI3MV19
+eyJoaXN0b3J5IjpbMTkzNjc4ODUyNSw5NDkzMjIwNDEsLTExMT
+g3Mjc0OTUsNzExODU4NjQ2LC0yMTY1MTI0NSwxNzAyMTYxMjcx
+XX0=
 -->
