@@ -28,10 +28,10 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 10^-12^ | p | pico | p | pico
 10^-15^ | f | femto | f | femto
 
-
-10^-10^ | Å | ангстрем | 10^-10^ | Å | Angstrom
+В низкоразмерной физике также часто можно встретить внесистемную единицу ангстрем - Å, обозначающую 10^-10^.
+$$1 Å = 10 \ nm$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mzg2NDI5Miw5NDkzMjIwNDEsLTExMT
-g3Mjc0OTUsNzExODU4NjQ2LC0yMTY1MTI0NSwxNzAyMTYxMjcx
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTM3Mjc1OTEsOTQ5MzIyMDQxLC0xMT
+E4NzI3NDk1LDcxMTg1ODY0NiwtMjE2NTEyNDUsMTcwMjE2MTI3
+MV19
 -->
