@@ -12,23 +12,43 @@ $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot1
 Приставки для образования десятичных кратных и дольных единиц
 Множитель | Приставка | Обозначение
 - | - | -
-10^15 | P | peta
-10^12 | T | tera
-10^9 | G | giga
-10^6 | M | mega
-10^3 | k | kilo
-10^2 | h | hecto
-10^1 | da | deka
-10^0 | | base unit
-10^-1 | d | deci
-10^-2 | c | centi
-10^-3 | m | milli
-10^-6 | $\mu$ | micro
-10^-9 | n | nano
-10^-10 | Å | Angstrom
-10^-12 | p | pico
-10^-15 | f | femto
+10^15^ | P | peta
+10^12^ | T | tera
+10^9^ | G | giga
+10^6^ | M | mega
+10^3^ | k | kilo
+10^2^ | h | hecto
+10^1^ | da | дека
+10^0^ | | base unit
+10^-1^ | дц | деци
+10^-2^ | с | санти
+10^-3^ | м | милли
+10^-6^ | мк | микро
+10^-9^ | n | nano
+10^-10^ | Å | Angstrom
+10^-12^ | p | pico
+10^-15^ | f | femto
+
+SI prefixes
+Множитель | Приставка | Обозначение
+- | - | -
+10^15^ | P | peta
+10^12^ | T | tera
+10^9^ | G | giga
+10^6^ | M | mega
+10^3^ | k | kilo
+10^2^ | h | hecto
+10^1^ | da | deka
+10^0^ | | base unit
+10^-1^ | d | deci
+10^-2^ | c | centi
+10^-3^ | m | milli
+10^-6^ | $\mu$ | micro
+10^-9^ | n | nano
+10^-10^ | Å | Angstrom
+10^-12^ | p | pico
+10^-15^ | f | femto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODEwODA4MiwtMTExODcyNzQ5NSw3MT
+eyJoaXN0b3J5IjpbMTg2OTE1OTA3NCwtMTExODcyNzQ5NSw3MT
 E4NTg2NDYsLTIxNjUxMjQ1LDE3MDIxNjEyNzFdfQ==
 -->
