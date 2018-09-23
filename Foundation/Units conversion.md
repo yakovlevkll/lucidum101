@@ -10,7 +10,7 @@ $(1\ cm)^{-3} = (10^{-1}\ dm)^{-3}=10^{-1\cdot(-3)}\ dm^{-3}=10^3\ dm^{-3}$
 $1000\ g\cdot cm^{-3} = 10^3\cdot 10^{-3}\ kg \cdot 10^{-1}\ dm^{-3}= 10^3\cdot10^{-3}\cdot10^{3}\ kg\cdot dm^{-3}=1000\ kg\cdot dm^{-3}$
 
 Приставки для образования десятичных единиц
-
+| Приставка | Обозначение | Множитель |  | | | | 
 peta | P | 10^15
 tera | T | 10^12
 giga | G | 10^9
@@ -18,7 +18,7 @@ mega | M | 10^6
 kilo | k | 10^3
 hecto | h | 10^2
 deka | da  10^1
-base unit | |  10^0
+base unit | 10^0
 deci | d | 10^-1
 centi | c | 10^-2
 milli | m | 10^-3
@@ -27,6 +27,6 @@ nano | n | 10^-9
 Angstrom | A | 10^-10
 pico | P | 10^-12
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg4NTk0ODgsLTIxNjUxMjQ1LDE3MD
-IxNjEyNzFdfQ==
+eyJoaXN0b3J5IjpbNzExODU4NjQ2LC0yMTY1MTI0NSwxNzAyMT
+YxMjcxXX0=
 -->
