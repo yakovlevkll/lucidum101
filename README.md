@@ -2,6 +2,7 @@
 _The basics of humankind knowledge._
 
 ## Foundation
+- 
 - applied math I
 - physics and chemistry I
 
@@ -19,5 +20,5 @@ _The basics of humankind knowledge._
 ## Level 2
 - video-editing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDUzMzA2MF19
+eyJoaXN0b3J5IjpbMjU4MDc3Nzk5LDE5NDA1MzMwNjBdfQ==
 -->
