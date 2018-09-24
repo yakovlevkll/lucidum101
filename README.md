@@ -9,10 +9,11 @@ _The basics of humankind knowledge._
 
 ## Ground level
 - Applied math II (3blue1brown)
-- physics II
-- social science
-- computer science
-- biology
+- Physics and Chemistry II
+- Algorithms II
+- Social science
+- Computer science
+- Biology I
 
 ## Level 1
 - coding
@@ -21,5 +22,5 @@ _The basics of humankind knowledge._
 ## Level 2
 - video-editing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg2MjMxMzYsMTk0MDUzMzA2MF19
+eyJoaXN0b3J5IjpbLTE2NDE4ODYyOTUsMTk0MDUzMzA2MF19
 -->
