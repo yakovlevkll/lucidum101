@@ -2,10 +2,10 @@
 
 ```mermaid
 graph BT
-A((Wow)) -- Link text --> B((Circle))
-A --> C(Round Rect)
+Nata(Кирилл) -- Link text --> B((Circle))
+Nata --> C(Round Rect)
 B --> D{Rhombus}
-C --> D
+Nata --> D
 ```
 
 Дерек об академии Хана:
@@ -427,6 +427,6 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTI2MjcyOSwtMTM5NDMyNDY5MywyMD
+eyJoaXN0b3J5IjpbMTI1NjI2ODc5MCwtMTM5NDMyNDY5MywyMD
 gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
 -->
