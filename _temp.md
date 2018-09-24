@@ -1,10 +1,6 @@
 # Some ideas
 
-```mermaid
-graph BT
-Nata(Кирилл) -- Link text --> B((Circle))
 
-```
 
 Дерек об академии Хана:
 
@@ -425,6 +421,6 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwOTQyMzg0LC0xMzk0MzI0NjkzLDIwOD
-M1ODMwMzcsLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMD
+gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
 -->
