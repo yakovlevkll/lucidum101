@@ -1,4 +1,13 @@
 # Some ideas
+
+```mermaid
+graph BT
+A((Wow)) -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 Дерек об академии Хана:
 
 1. Students think they know it
@@ -418,6 +427,6 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNywtMT
-gzMjY4NzUyMF19
+eyJoaXN0b3J5IjpbLTY4MTI2MjcyOSwtMTM5NDMyNDY5MywyMD
+gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
 -->
