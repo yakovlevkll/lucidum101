@@ -2,12 +2,13 @@
 _The basics of humankind knowledge._
 
 ## Foundation
-- 
-- applied math I
-- physics and chemistry I
+- Logics
+- Algorithms I
+- Applied math I
+- Physics and chemistry I
 
 ## Ground level
-- applied math II (3blue1brown)
+- Applied math II (3blue1brown)
 - physics II
 - social science
 - computer science
@@ -20,5 +21,5 @@ _The basics of humankind knowledge._
 ## Level 2
 - video-editing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MDc3Nzk5LDE5NDA1MzMwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTg2MjMxMzYsMTk0MDUzMzA2MF19
 -->
