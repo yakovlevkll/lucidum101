@@ -1,7 +1,5 @@
 # Some ideas
 
-
-
 Дерек об академии Хана:
 
 1. Students think they know it
@@ -421,6 +419,6 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMD
-gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
+eyJoaXN0b3J5IjpbNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOT
+QzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
 -->
