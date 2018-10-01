@@ -3,6 +3,8 @@
 $a^x\cdot a^y=a^{x+y}$
 $a^x:a^y=a^{x-y}$
 $(a^x)^y=a^{x\cdot y}$
+$\sqrt{a}{b} = $
+$a^{-x}=a^{x+y}$
 
 Всё своё сознательное существование человечество познает мир, стараясь обобщить и выделить главное из полученной информации.
 
@@ -347,5 +349,5 @@ $(-1.4)^6$ | | $-(1.4)^6$
 $-64$ | | $-2^6$
 $-(0.8)^{11}$ | | $(-0.8)^{11}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODQ5NTI4LDEzMzYyODY5MDRdfQ==
+eyJoaXN0b3J5IjpbODM1NzE3OTQ0LDEzMzYyODY5MDRdfQ==
 -->
