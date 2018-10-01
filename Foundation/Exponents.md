@@ -4,7 +4,7 @@ $a^x\cdot a^y=a^{x+y}$
 $a^x:a^y=a^{x-y}$
 $(a^x)^y=a^{x\cdot y}$
 $a^{-x}=\dfrac{1}{a^x}$
-$\sqrt[\leftroot{-3}\uproot{3}p]{a}$
+$\sqrt[y]{a^x}=a^{\frac{x}{y}}$
 $\left(\dfrac{a}{b}\right)^{-x}=\left(\dfrac{b}{a}\right)^x$
 $a^0=1$
 $a^x\cdot b^x=(a\cdot b)^x$
@@ -353,6 +353,6 @@ $(-1.4)^6$ | | $-(1.4)^6$
 $-64$ | | $-2^6$
 $-(0.8)^{11}$ | | $(-0.8)^{11}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDQ0MzI1NSwyNTA4MzMxMDcsMTMzNj
+eyJoaXN0b3J5IjpbLTc1NzQ5NDk1MCwyNTA4MzMxMDcsMTMzNj
 I4NjkwNF19
 -->
