@@ -1,4 +1,4 @@
-# Some ideas
+# Some ideas~~strikethrough text~~
 
 Дерек об академии Хана:
 
@@ -419,6 +419,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOT
-QzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
+eyJoaXN0b3J5IjpbLTE0NzcwOTE4ODcsNTgxOTgwMjE1LDE2OT
+UwNDAwOTEsLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4
+NzUyMF19
 -->
