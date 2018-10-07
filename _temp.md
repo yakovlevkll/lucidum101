@@ -1,5 +1,20 @@
-# Some ideas~~strikethrough text~~
+Вынести за скобку общий множитель
+$3a(a + 2) - 9(2 + a)=$
 
+$(7d - 3)^2 - 3d(3 - 7d)=$
+
+$2c(с - 2)^3 + 3(2 - c)^2=$
+
+Найти значение дроби
+$\dfrac{15a^2 - 10ab}{3ab - 2b^2}$ при $a = -2$, $b = -0.1$
+
+$\dfrac{9c^2 - 4d^2}{18c^2d - 12cd^2}$ при $c = \dfrac{2}{3}$, $d = \dfrac{1}{2}$
+
+$\dfrac{x^2 +6xy + 9y^2}{4x^2 + 12xy}$ при $x = -0.2$, $y = -0.6$
+
+_And please, use your brain._
+
+# Some ideas
 Дерек об академии Хана:
 
 1. Students think they know it
@@ -419,7 +434,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcwOTE4ODcsNTgxOTgwMjE1LDE2OT
-UwNDAwOTEsLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4
-NzUyMF19
+eyJoaXN0b3J5IjpbLTE2MzQ5NTYxNCwtMTQ3NzA5MTg4Nyw1OD
+E5ODAyMTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgz
+MDM3LC0xODMyNjg3NTIwXX0=
 -->
