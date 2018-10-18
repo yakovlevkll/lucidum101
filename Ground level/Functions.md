@@ -123,7 +123,7 @@ $$x_{1,2}=\dfrac{-b\pm\sqrt{D}}{2a}$$
 
 Меняя знак перед квадратным корнем из дискриминанта, мы получаем один и второй корни.
 
-## Vieta’s formulas
+## Теорема Виета
 
 Вторым способом решения квадратного уравнения является теорема Виета. Она утверждает, что корни можно найти, решив данную систему уравнений
 
@@ -279,6 +279,6 @@ ${■(x_1+x_2=-b/a@x_1∙x_2=c/a)┤$
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDQ0MjQ1OCw5NDIzMDY4NTYsLTMzMD
-E4Nzk2LC0xMzgzMjI3MTM1XX0=
+eyJoaXN0b3J5IjpbLTEwNzA3Mjg4MjksOTQyMzA2ODU2LC0zMz
+AxODc5NiwtMTM4MzIyNzEzNV19
 -->
