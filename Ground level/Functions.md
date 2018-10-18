@@ -29,17 +29,9 @@ $c$  -- (y-intercept) – коэффициент, отвечающий за по
 
 $$y(x)=3x+2$$
 
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
+| $x$ | $0$ | $1$ |
+| - | - | - | 
+| $y$ | $y(0)=3\cdot0+2=2$ | $y(0)=3\cdot1+2=5$ |
 
 Таким образом, мы получаем две координаты, через которые проходит прямая.
 
@@ -299,6 +291,6 @@ maxima
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAxMDA1NDIsLTEzODMyMjcxMzVdfQ
+eyJoaXN0b3J5IjpbLTE0MjM0MDk4ODksLTEzODMyMjcxMzVdfQ
 ==
 -->
