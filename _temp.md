@@ -1,3 +1,11 @@
+1. Amy can read 10 pages of her textbook in 15 minutes. How many pages can she read in 40 minutes?
+2. If a fruit stand sells 5 kilograms of apples for $6.75, how many kilograms of apples can Carlos buy for $2.70?
+18. The tax on a car valued at $30,000 is $ 1,200. If there is a $2,000 tax on a second car and the same lax rale applies, what is the value of the second car?
+3. A store sells flour in 1-pound bags, which cost $1.50, and 5-pound bags, which cost $3.50. If Dominique needs to buy 10 pounds of flour, how much money will she save by buying 5-pound bags instead of 1-pound bags?
+4. Monica has a wooden board 27 centimeters long. She needs to cut the board into two pieces whose lengths are in a ratio of 4:5. How long should she make the smallest piece?
+5. A school has a student-teacher ratio of 15 to 1. If the school has 22 teachers, how many students are at the school?
+6. A recipe says to add a ratio of 3 cups of water to every 2 cups of rice. If John adds 6 cups of rice, how much water should he add?
+
 Вынести за скобку общий множитель
 $3a(a + 2) - 9(2 + a)=$
 
@@ -434,7 +442,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ5NTYxNCwtMTQ3NzA5MTg4Nyw1OD
+eyJoaXN0b3J5IjpbMTAyMjYwODAyNCwtMTQ3NzA5MTg4Nyw1OD
 E5ODAyMTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgz
 MDM3LC0xODMyNjg3NTIwXX0=
 -->
