@@ -58,9 +58,9 @@ $3x+2=-x+8$
 $4x=6$
 $x=1.5$
 
-**!!!Graph!!!**
+<iframe src="https://www.desmos.com/calculator/hygte1xr8s?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-## Solutions
+## Решение уравнений
 
 В функциональном анализе важным частным случаем является нахождения точек пересечения с осью <![if !msEquation]>  <![endif]>  (прямой <![if !msEquation]>  <![endif]>). Данная задача также называется нахождением корней (решений) уравнения, составленного из функции.
 
@@ -300,6 +300,6 @@ maxima
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjE0NzA3NCwtMzMwMTg3OTYsLTEzOD
-MyMjcxMzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDM1MDA4NzUsLTMzMDE4Nzk2LC0xMz
+gzMjI3MTM1XX0=
 -->
