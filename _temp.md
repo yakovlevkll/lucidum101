@@ -1,3 +1,9 @@
+
+Знаете ли вы, что рекорд скорости гоночной машины, установленный Энди Грином в 1997 году, равен 1227 км/ч — больше скорости звука!
+Машина в нашей задаче едет помедленнее, тем более что за рулем дама, совсем недавно получившая права. Двигаясь со скоростью 30 км/ч, машина за один час взбирается на гору. Но, преодолев подъем, дама обнаруживает, что забыла дома кассету с любимой музыкой, и немедленно — совсем не задержавшись на вершине — поворачивает обратно. С горы машина спускается со скоростью 60 км/ч. Чему равна средняя скорость движения?
+ПОДСКАЗКА. Ответ 45 км/ч — неверный.
+
+
 1. Amy can read 10 pages of her textbook in 15 minutes. How many pages can she read in 40 minutes?
 2. If a fruit stand sells 5 kilograms of apples for $6.75, how many kilograms of apples can Carlos buy for $2.70?
 18. The tax on a car valued at $30,000 is $ 1,200. If there is a $2,000 tax on a second car and the same lax rale applies, what is the value of the second car?
@@ -442,7 +448,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjYwODAyNCwtMTQ3NzA5MTg4Nyw1OD
-E5ODAyMTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgz
-MDM3LC0xODMyNjg3NTIwXX0=
+eyJoaXN0b3J5IjpbNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MT
+k4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMw
+MzcsLTE4MzI2ODc1MjBdfQ==
 -->
