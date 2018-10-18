@@ -127,7 +127,7 @@ $$x_{1,2}=\dfrac{-b\pm\sqrt{D}}{2a}$$
 
 Вторым способом решения квадратного уравнения является теорема Виета. Она утверждает, что корни можно найти, решив данную систему уравнений
 
-<![if !msEquation]>  <![endif]>
+${■(x_1+x_2=-b/a@x_1∙x_2=c/a)┤$
 
 Видно, что данным решением очень удобно пользоваться, если <![if !msEquation]>  <![endif]>. Иногда систему уравнений удается решить в уме методом подбора.
 
@@ -279,6 +279,6 @@ $$x_{1,2}=\dfrac{-b\pm\sqrt{D}}{2a}$$
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMzA2ODU2LC0zMzAxODc5NiwtMTM4Mz
-IyNzEzNV19
+eyJoaXN0b3J5IjpbMTgzNDQ0MjQ1OCw5NDIzMDY4NTYsLTMzMD
+E4Nzk2LC0xMzgzMjI3MTM1XX0=
 -->
