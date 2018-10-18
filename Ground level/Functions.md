@@ -35,8 +35,7 @@ $$y(x)=3x+2$$
 
 Таким образом, мы получаем две координаты, через которые проходит прямая.
 
-**!!!Graph!!!**
-<iframe src="https://www.desmos.com/calculator/dxh3grhql7?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+<iframe src="https://www.desmos.com/calculator/5g46pqflpq?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## Пересечение функций
 
@@ -301,5 +300,6 @@ maxima
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDE4Nzk2LC0xMzgzMjI3MTM1XX0=
+eyJoaXN0b3J5IjpbLTc3MjE0NzA3NCwtMzMwMTg3OTYsLTEzOD
+MyMjcxMzVdfQ==
 -->
