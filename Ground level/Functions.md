@@ -103,29 +103,23 @@ $$y(x)=ax^2+bx+c$$
 
 Возникает вопрос – а как найти решения уравнения
 
-<![if !msEquation]>  <![endif]>
+$ax^2+bx+c=0$
 
 Вариантов нахождения корней данного уравнения существует несколько. Для начала давайте найдем решение с помощью дискриминанта. Дискриминант можно найти следующим образом
 
-<![if !msEquation]>  <![endif]>
+$D=b^2-4ac$
 
 Дискриминант тесно связан с количеством корней уравнения
 
 <![if !msEquation]>  <![endif]>
 
-**Количество корней**
+***
 
-<![if !msEquation]>  <![endif]>
 
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
-
-<![if !msEquation]>  <![endif]>
+| Значение | Количество корней* |
+| - | - | - | 
+| $a>0$ | вверх |
+| $a<0$ | вниз |
 
 После нахождения дискриминанта переходим к нахождению самих корней квадратного уравнения
 
@@ -289,6 +283,6 @@ $$y(x)=ax^2+bx+c$$
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NDQ4MjIwLC0zMzAxODc5NiwtMTM4Mz
-IyNzEzNV19
+eyJoaXN0b3J5IjpbMTg0NDQ0Mzg0OCwtMzMwMTg3OTYsLTEzOD
+MyMjcxMzVdfQ==
 -->
