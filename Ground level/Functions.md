@@ -41,7 +41,14 @@ $$y(x)=3x+2$$
 
 Допустим, у нас есть две функции
 
-<![endif]--> <![if !msEquation]>  <![endif]>
+$$
+\left\{ 
+\begin{array}{c}
+y_1(x)=3x+2\\
+y_2(x)=-x+8
+\end{array}
+\right.
+ $$
 
 Тогда <![if !msEquation]>  <![endif]>-координата точки пересечения может быть найдена как решение следующего уравнения
 
@@ -291,6 +298,6 @@ maxima
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcyMDU5MzIsLTEzODMyMjcxMzVdfQ
+eyJoaXN0b3J5IjpbLTIwMTE1OTY4OTcsLTEzODMyMjcxMzVdfQ
 ==
 -->
