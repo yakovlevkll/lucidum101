@@ -235,6 +235,12 @@ ${■(x_1+x_2=-b/a@x_1∙x_2=c/a)┤$
 
 Лифт Останкинской телевизионной башни заканчивает свое движение после прохождения 49 м за 14 с. Найдите ускорение и начальную скорость лифта.
 
+A first stone is dropped from the roof of a building. 2.40s after that, a second stone is thrown straight down with an initial speed of 33.0 m/s, and it is observed that the two stones land at the same time.
+
+1. How long did it take the first stone to reach the ground?
+2. How high is the building?
+3. What are the speeds of the two stones just before they hit the ground?
+
 ## Деление полиномов
 
 Разделить выражение  <![if !msEquation]>  <![endif]> на <![if !msEquation]>  <![endif]>
@@ -279,6 +285,6 @@ ${■(x_1+x_2=-b/a@x_1∙x_2=c/a)┤$
 лифта.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA3Mjg4MjksOTQyMzA2ODU2LC0zMz
-AxODc5NiwtMTM4MzIyNzEzNV19
+eyJoaXN0b3J5IjpbLTc3Mjk2MDcyMiwtMTA3MDcyODgyOSw5ND
+IzMDY4NTYsLTMzMDE4Nzk2LC0xMzgzMjI3MTM1XX0=
 -->
