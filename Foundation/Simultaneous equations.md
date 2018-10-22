@@ -34,7 +34,7 @@ x+2y=11 \quad | \cdot 2
 \right.
  $$
 3. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$). Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
-
+4. 
 $2x + 4y - (2x + y) = 22 - 10$
 $2x + 4y - 2x - y = 12$
 $3y = 12$
@@ -50,11 +50,11 @@ So we've found a solution
 $$
 \left\{ 
 \begin{array}{c}
-x  \\
-x+2y=11 \quad | \cdot 2
+x = 3 \\
+y = 4
 \end{array}
 \right.
  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE2MzUwOTddfQ==
+eyJoaXN0b3J5IjpbLTY4OTUyODY3M119
 -->
