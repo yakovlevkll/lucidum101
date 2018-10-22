@@ -33,8 +33,10 @@ x+2y=12 \quad | \cdot 2
 \end{array}
 \right.
  $$
-3. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$)
-4. Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
+3. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$). Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
+ $$
+2x + 4y - (2x + y) = 10  - 24
+ $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA1NTE0NDldfQ==
+eyJoaXN0b3J5IjpbNDQ3OTg2Mjk0XX0=
 -->
