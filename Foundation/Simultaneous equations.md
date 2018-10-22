@@ -40,7 +40,9 @@ $2x + 4y - 2x - y = 12$
 $3y = 12$
 $y = 4$
 
-Th
+Then we need to put it in on of the initial equations
+$2x + y = 10$
+$2x + 4 = 10$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcyMTczNDldfQ==
+eyJoaXN0b3J5IjpbLTU3MDQ1OTMwNV19
 -->
