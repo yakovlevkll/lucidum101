@@ -43,6 +43,18 @@ $y = 4$
 Then we need to put it in on of the initial equations
 $2x + y = 10$
 $2x + 4 = 10$
+$2x = 6$
+$x = 3$
+
+So we've found a solution
+$$
+\left\{ 
+\begin{array}{c}
+x  \\
+x+2y=11 \quad | \cdot 2
+\end{array}
+\right.
+ $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDQ1OTMwNV19
+eyJoaXN0b3J5IjpbLTIxMjE2MzUwOTddfQ==
 -->
