@@ -1,5 +1,6 @@
 # Simultaneous equations
-We have 3 basic methods to solve simultaneous equations. Each of those has their own pluses and minuses.
+
+We have 3 basic methods to solve simultaneous equations. All those methods are almost the same, but each of them has their own advantages and disadva
 
 ## Addition/subtraction
 
@@ -89,7 +90,7 @@ If we have 2 absolutely equal parts one one side of equations, we can equal thei
 
 $2x + 3 = -0.5x + 1$
 
-And 
+And so on.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE3OTkzNTZdfQ==
+eyJoaXN0b3J5IjpbMTcxMTQ3MDM2XX0=
 -->
