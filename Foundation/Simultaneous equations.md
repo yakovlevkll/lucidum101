@@ -8,7 +8,7 @@ $$
 \left\{ 
 \begin{array}{c}
 2x+y=10 \\
-x+2y=12
+x+2y=11
 \end{array}
 \right.
  $$
@@ -20,7 +20,7 @@ $$
 \left\{ 
 \begin{array}{c}
 2x+y=10 \\
-x+2y=12 \quad | \cdot 2
+x+2y=11 \quad | \cdot 2
 \end{array}
 \right.
  $$
@@ -29,15 +29,18 @@ x+2y=12 \quad | \cdot 2
 \left\{ 
 \begin{array}{c}
 2x+y=10 \\
-2x+4y=24
+2x+4y=22
 \end{array}
 \right.
  $$
 3. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$). Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
 
-$2x + 4y - (2x + y) = 24 - 10$
-$2x + 4y - 2x - y = 14$
-$3y = 14$
+$2x + 4y - (2x + y) = 22 - 10$
+$2x + 4y - 2x - y = 12$
+$3y = 12$
+$y = 4$
+
+Th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk4MDQwNzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDcyMTczNDldfQ==
 -->
