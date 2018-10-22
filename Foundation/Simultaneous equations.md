@@ -67,9 +67,12 @@ a = (15 - b) \cdot 10
 \end{array}
 \right.
  $$
+
 In cases like this we can replace variable in one equation with another one
 
 $(15 - b) \cdot 10 - 20 = (15 + b) \cdot 6$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjEyODgyMl19
+eyJoaXN0b3J5IjpbLTE4ODE2NDU0NF19
 -->
