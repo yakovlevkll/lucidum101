@@ -18,23 +18,24 @@ We can add or subtract one equation following these steps:
 
 $$
 \left\{ 
-\begin{array}{c}
+\begin{array}{l}
 2x+y=10 \\
-x+2y=11 \quad | \cdot 2
+x+2y=11 \quad| \cdot 2
 \end{array}
 \right.
- $$
+$$
  
- $$
+$$
 \left\{ 
 \begin{array}{c}
 2x+y=10 \\
 2x+4y=22
 \end{array}
 \right.
- $$
-3. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$). Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
-4. 
+$$
+
+2. Add 2 equations, if signs before variables with same coefficients are differ ($+ -$ or $-+$). Subtract 2 equations if signs before variables with same coefficients are the same ($++$ or $--$)
+
 $2x + 4y - (2x + y) = 22 - 10$
 $2x + 4y - 2x - y = 12$
 $3y = 12$
@@ -56,5 +57,5 @@ y = 4
 \right.
  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTUyODY3M119
+eyJoaXN0b3J5IjpbLTIxNDU3NTk2N119
 -->
