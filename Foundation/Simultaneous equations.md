@@ -74,8 +74,16 @@ $(15 - b) \cdot 10 - 20 = (15 + b) \cdot 6$
 
 And so we just need to solve this linear equation.
 
+## Equal parts
 
-
+$$
+\left\{ 
+\begin{array}{l
+y = 2x + 3 \\
+y = -0.5x + 1
+\end{array}
+\right.
+ $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODA2ODY3OF19
+eyJoaXN0b3J5IjpbMTYwNzgwMDcyMV19
 -->
