@@ -78,12 +78,18 @@ And so we just need to solve this linear equation.
 
 $$
 \left\{ 
-\begin{array}{l
+\begin{array}{l}
 y = 2x + 3 \\
 y = -0.5x + 1
 \end{array}
 \right.
- $$
+$$
+
+If we have 2 absolutely equal parts one one side of equations, we can equal their other sides
+
+$2x + 3 = -0.5x + 1$
+
+And 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzgwMDcyMV19
+eyJoaXN0b3J5IjpbLTE2MDE3OTkzNTZdfQ==
 -->
