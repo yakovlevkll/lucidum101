@@ -72,7 +72,10 @@ In cases like this we can replace variable in one equation with another one
 
 $(15 - b) \cdot 10 - 20 = (15 + b) \cdot 6$
 
+And so we just need to solve this linear equation.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE2NDU0NF19
+eyJoaXN0b3J5IjpbLTIxODA2ODY3OF19
 -->
