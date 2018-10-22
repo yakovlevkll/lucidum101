@@ -1,10 +1,10 @@
 # Simultaneous equations
 
-We have 3 basic methods to solve simultaneous equations. All those methods are almost the same, but each of them has their own advantages and disadva
+We have 3 basic methods to solve simultaneous equations. All those methods are almost the same, but each of them has their own advantages and disadvantages, so be careful!
 
 ## Addition/subtraction
 
-Supose we have this system
+Suppose we have 2 simultaneous equations
 $$
 \left\{ 
 \begin{array}{c}
@@ -14,7 +14,7 @@ x+2y=11
 \right.
  $$
 
-We can add or subtract one equation following these steps:
+We can add or subtract these equation following 2 steps:
 1. Make equal coefficients before one of the variables
 
 $$
@@ -92,5 +92,5 @@ $2x + 3 = -0.5x + 1$
 
 And so on.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTQ3MDM2XX0=
+eyJoaXN0b3J5IjpbLTgxOTcxMjg4NV19
 -->
