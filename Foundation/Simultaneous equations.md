@@ -56,6 +56,17 @@ y = 4
 \end{array}
 \right.
  $$
+ 
+## Replacement
+
+$$
+\left\{ 
+\begin{array}{c}
+a - 20 = (15 + b) \cdot 6 \\
+a = (15 - b) \cdot 10
+\end{array}
+\right.
+ $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU3NTk2N119
+eyJoaXN0b3J5IjpbNTM3ODkzNDQ0XX0=
 -->
