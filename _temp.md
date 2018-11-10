@@ -1,4 +1,4 @@
-$$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[8]{9}\sqrt{2}}$$
+$$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}$$
 
 
 Знаете ли вы, что рекорд скорости гоночной машины, установленный Энди Грином в 1997 году, равен 1227 км/ч — больше скорости звука!
@@ -450,7 +450,8 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDcyOTcyMCw0NjMzOTEwMzMsLTE0Nz
-cwOTE4ODcsNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOTQzMjQ2
-OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
+eyJoaXN0b3J5IjpbLTExODAwNjQxMiwxOTY0NzI5NzIwLDQ2Mz
+M5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAyMTUsMTY5NTA0MDA5
+MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC0xODMyNjg3NTIwXX
+0=
 -->
