@@ -2,7 +2,8 @@ $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }
 
 Построить график функции и объяснить, почему модуль в данных ситуациях работает именно таким образом
 1. $2x^2-3\left|x\right|-2$
-2. 
+
+3. $\left|\dfrac{1}{2}x^2-x\right|-4$
 
 Знаете ли вы, что рекорд скорости гоночной машины, установленный Энди Грином в 1997 году, равен 1227 км/ч — больше скорости звука!
 Машина в нашей задаче едет помедленнее, тем более что за рулем дама, совсем недавно получившая права. Двигаясь со скоростью 30 км/ч, машина за один час взбирается на гору. Но, преодолев подъем, дама обнаруживает, что забыла дома кассету с любимой музыкой, и немедленно — совсем не задержавшись на вершине — поворачивает обратно. С горы машина спускается со скоростью 60 км/ч. Чему равна средняя скорость движения?
@@ -453,8 +454,8 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzcwNzEzLDQxNTcyNDQxOCwxMDI5Nj
-E1NDM4LDE5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xNDc3MDkxODg3
-LDU4MTk4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwOD
-M1ODMwMzcsLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbMTEwODMxMjYwMCw0MTU3MjQ0MTgsMTAyOT
+YxNTQzOCwxOTY0NzI5NzIwLDQ2MzM5MTAzMywtMTQ3NzA5MTg4
+Nyw1ODE5ODAyMTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMD
+gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
 -->
