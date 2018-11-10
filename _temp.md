@@ -1,5 +1,7 @@
 $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }$$
 
+Построить график функции и объяснить, почему модуль в данных ситуациях работает именно таким образом
+
 
 Знаете ли вы, что рекорд скорости гоночной машины, установленный Энди Грином в 1997 году, равен 1227 км/ч — больше скорости звука!
 Машина в нашей задаче едет помедленнее, тем более что за рулем дама, совсем недавно получившая права. Двигаясь со скоростью 30 км/ч, машина за один час взбирается на гору. Но, преодолев подъем, дама обнаруживает, что забыла дома кассету с любимой музыкой, и немедленно — совсем не задержавшись на вершине — поворачивает обратно. С горы машина спускается со скоростью 60 км/ч. Чему равна средняя скорость движения?
@@ -450,8 +452,8 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTYxNTQzOCwxOTY0NzI5NzIwLDQ2Mz
-M5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAyMTUsMTY5NTA0MDA5
-MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC0xODMyNjg3NTIwXX
-0=
+eyJoaXN0b3J5IjpbNDE1NzI0NDE4LDEwMjk2MTU0MzgsMTk2ND
+cyOTcyMCw0NjMzOTEwMzMsLTE0NzcwOTE4ODcsNTgxOTgwMjE1
+LDE2OTUwNDAwOTEsLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNywtMT
+gzMjY4NzUyMF19
 -->
