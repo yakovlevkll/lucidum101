@@ -1,3 +1,5 @@
+$$\dfrac{\sqrt[8]{9}}\sqrt[8]{9}{}$$
+
 
 Знаете ли вы, что рекорд скорости гоночной машины, установленный Энди Грином в 1997 году, равен 1227 км/ч — больше скорости звука!
 Машина в нашей задаче едет помедленнее, тем более что за рулем дама, совсем недавно получившая права. Двигаясь со скоростью 30 км/ч, машина за один час взбирается на гору. Но, преодолев подъем, дама обнаруживает, что забыла дома кассету с любимой музыкой, и немедленно — совсем не задержавшись на вершине — поворачивает обратно. С горы машина спускается со скоростью 60 км/ч. Чему равна средняя скорость движения?
@@ -448,7 +450,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MT
-k4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMw
-MzcsLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbMTAwMjYzNzIwNyw0NjMzOTEwMzMsLTE0Nz
+cwOTE4ODcsNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOTQzMjQ2
+OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
 -->
