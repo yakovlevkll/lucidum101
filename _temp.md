@@ -1,3 +1,5 @@
+Свежие грибы содержат 90% воды, а сухие грибы — 12% воды. Сколько получится сухих грибов из 11 кг свежих?
+
 Найти сумму цифр числа 19299399949999599999699999979999999.
 
 $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }$$
@@ -456,8 +458,9 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDEwNDI0LDExMDgzMTI2MDAsNDE1Nz
-I0NDE4LDEwMjk2MTU0MzgsMTk2NDcyOTcyMCw0NjMzOTEwMzMs
-LTE0NzcwOTE4ODcsNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOT
-QzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
+eyJoaXN0b3J5IjpbMTM0MjQzNTEwMywtMzI0MTA0MjQsMTEwOD
+MxMjYwMCw0MTU3MjQ0MTgsMTAyOTYxNTQzOCwxOTY0NzI5NzIw
+LDQ2MzM5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAyMTUsMTY5NT
+A0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC0xODMyNjg3
+NTIwXX0=
 -->
