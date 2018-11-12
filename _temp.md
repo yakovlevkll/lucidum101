@@ -1,3 +1,5 @@
+Найти сумму цифр числа 19299399949999599999699999979999999.
+
 $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }$$
 
 Построить график функции и объяснить, почему модуль в данных ситуациях работает именно таким образом
@@ -454,8 +456,8 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODMxMjYwMCw0MTU3MjQ0MTgsMTAyOT
-YxNTQzOCwxOTY0NzI5NzIwLDQ2MzM5MTAzMywtMTQ3NzA5MTg4
-Nyw1ODE5ODAyMTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMD
-gzNTgzMDM3LC0xODMyNjg3NTIwXX0=
+eyJoaXN0b3J5IjpbLTMyNDEwNDI0LDExMDgzMTI2MDAsNDE1Nz
+I0NDE4LDEwMjk2MTU0MzgsMTk2NDcyOTcyMCw0NjMzOTEwMzMs
+LTE0NzcwOTE4ODcsNTgxOTgwMjE1LDE2OTUwNDAwOTEsLTEzOT
+QzMjQ2OTMsMjA4MzU4MzAzNywtMTgzMjY4NzUyMF19
 -->
