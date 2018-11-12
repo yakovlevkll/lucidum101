@@ -4,6 +4,8 @@
 
 $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }$$
 
+$$\frac{2^{\frac{1}{2}}+2\cdot5^{-1}}{2^{-\frac{1}{3}}-2^{-\frac{1}{6}}\cdot5^{-\frac{1}{3}}+5^{-\frac{2}{3}}}-\frac{2}{\sqrt[3]{5}$$
+
 Построить график функции и объяснить, почему модуль в данных ситуациях работает именно таким образом
 1. $2x^2-3\left|x\right|-2$
 
@@ -458,9 +460,9 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjQzNTEwMywtMzI0MTA0MjQsMTEwOD
-MxMjYwMCw0MTU3MjQ0MTgsMTAyOTYxNTQzOCwxOTY0NzI5NzIw
-LDQ2MzM5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAyMTUsMTY5NT
-A0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC0xODMyNjg3
-NTIwXX0=
+eyJoaXN0b3J5IjpbLTYxODc0OTc1NiwxMzQyNDM1MTAzLC0zMj
+QxMDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4
+LDE5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MT
+k4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMw
+MzcsLTE4MzI2ODc1MjBdfQ==
 -->
