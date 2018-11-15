@@ -2,6 +2,9 @@
 
 Найти сумму цифр числа 19299399949999599999699999979999999.
 
+Найти произведение чисел
+-42 * (-41) * (-40) * ... * 78 * 79
+
 $$\dfrac{\sqrt[8]{9}\sqrt[3]{40}\sqrt[4]{4}}{\sqrt[6]{25}\sqrt{2}}=2\sqrt[4]{3 }$$
 
 $$\frac{2^{\frac{1}{2}}+2\cdot5^{-1}}{2^{-\frac{1}{3}}-2^{-\frac{1}{6}}\cdot5^{-\frac{1}{3}}+5^{-\frac{2}{3}}}-\frac{2}{\sqrt[3]{5}}$$
@@ -460,9 +463,9 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMj
-QxMDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4
-LDE5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MT
-k4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMw
-MzcsLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMzM3Mjc3MzYsMjA1MDMzOTk4MSwxMz
+QyNDM1MTAzLC0zMjQxMDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQx
+OCwxMDI5NjE1NDM4LDE5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xND
+c3MDkxODg3LDU4MTk4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0
+NjkzLDIwODM1ODMwMzcsLTE4MzI2ODc1MjBdfQ==
 -->
