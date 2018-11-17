@@ -1,5 +1,8 @@
 Свежие грибы содержат 90% воды, а сухие грибы — 12% воды. Сколько получится сухих грибов из 11 кг свежих?
 
+Find the domain and roots of a functions
+a) $y(x) = \dfrac{x - \sqrt{x+6}}{x + 5}$
+
 Найти сумму цифр числа 19299399949999599999699999979999999.
 
 Найти произведение чисел
@@ -463,9 +466,10 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM3Mjc3MzYsMjA1MDMzOTk4MSwxMz
-QyNDM1MTAzLC0zMjQxMDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQx
-OCwxMDI5NjE1NDM4LDE5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xND
-c3MDkxODg3LDU4MTk4MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0
-NjkzLDIwODM1ODMwMzcsLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDE3ODUyNDYsLTEwMzM3Mjc3MzYsMj
+A1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMjQxMDQyNCwxMTA4MzEy
+NjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4LDE5NjQ3Mjk3MjAsND
+YzMzkxMDMzLC0xNDc3MDkxODg3LDU4MTk4MDIxNSwxNjk1MDQw
+MDkxLC0xMzk0MzI0NjkzLDIwODM1ODMwMzcsLTE4MzI2ODc1Mj
+BdfQ==
 -->
