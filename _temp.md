@@ -1,7 +1,10 @@
 Свежие грибы содержат 90% воды, а сухие грибы — 12% воды. Сколько получится сухих грибов из 11 кг свежих?
 
 Find the domain and roots of a functions
-a) $y(x) = \dfrac{x - \sqrt{x+6}}{x + 5}$
+
+$f(x) = \dfrac{x - \sqrt{x+6}}{x + 5}$
+
+$g(x) = \dfrac{4x^2 + 25x}{2x - \sqrt{10 - 6x}}$
 
 Найти сумму цифр числа 19299399949999599999699999979999999.
 
@@ -466,7 +469,7 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE3ODUyNDYsLTEwMzM3Mjc3MzYsMj
+eyJoaXN0b3J5IjpbLTEyODUxMTIxMTksLTEwMzM3Mjc3MzYsMj
 A1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMjQxMDQyNCwxMTA4MzEy
 NjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4LDE5NjQ3Mjk3MjAsND
 YzMzkxMDMzLC0xNDc3MDkxODg3LDU4MTk4MDIxNSwxNjk1MDQw
