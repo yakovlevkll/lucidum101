@@ -1,3 +1,7 @@
+Paula, Quinn, Rufus, and Sarah are suspects in a crime. The police found links between exactly four pairs of suspects: Paula and Quinn, Quinn and Rufus, Rufus and Paula, and Quinn and Sarah. These links can be shown in a diagram by drawing a point to represent each suspect and a line or curve joining two points whenever the two corresponding suspects are linked. An example of a drawing that represents this information is:
+
+
+
 Свежие грибы содержат 90% воды, а сухие грибы — 12% воды. Сколько получится сухих грибов из 11 кг свежих?
 
 Find the domain and roots of a functions
@@ -469,10 +473,10 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxMTIxMTksLTEwMzM3Mjc3MzYsMj
-A1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMjQxMDQyNCwxMTA4MzEy
-NjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4LDE5NjQ3Mjk3MjAsND
-YzMzkxMDMzLC0xNDc3MDkxODg3LDU4MTk4MDIxNSwxNjk1MDQw
-MDkxLC0xMzk0MzI0NjkzLDIwODM1ODMwMzcsLTE4MzI2ODc1Mj
-BdfQ==
+eyJoaXN0b3J5IjpbLTE4NzIyODg5MDAsLTEyODUxMTIxMTksLT
+EwMzM3Mjc3MzYsMjA1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMjQx
+MDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4LD
+E5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MTk4
+MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMwMz
+csLTE4MzI2ODc1MjBdfQ==
 -->
