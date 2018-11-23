@@ -1,4 +1,3 @@
-Paula, Quinn, Rufus, and Sarah are suspects in a crime. The police found links between exactly four pairs of suspects: Paula and Quinn, Quinn and Rufus, Rufus and Paula, and Quinn and Sarah. These links can be shown in a diagram by drawing a point to represent each suspect and a line or curve joining two points whenever the two corresponding suspects are linked. An example of a drawing that represents this information is:
 
 
 
@@ -473,10 +472,10 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIyODg5MDAsLTEyODUxMTIxMTksLT
-EwMzM3Mjc3MzYsMjA1MDMzOTk4MSwxMzQyNDM1MTAzLC0zMjQx
-MDQyNCwxMTA4MzEyNjAwLDQxNTcyNDQxOCwxMDI5NjE1NDM4LD
-E5NjQ3Mjk3MjAsNDYzMzkxMDMzLC0xNDc3MDkxODg3LDU4MTk4
-MDIxNSwxNjk1MDQwMDkxLC0xMzk0MzI0NjkzLDIwODM1ODMwMz
-csLTE4MzI2ODc1MjBdfQ==
+eyJoaXN0b3J5IjpbOTE1Mzg3MDkxLC0xMjg1MTEyMTE5LC0xMD
+MzNzI3NzM2LDIwNTAzMzk5ODEsMTM0MjQzNTEwMywtMzI0MTA0
+MjQsMTEwODMxMjYwMCw0MTU3MjQ0MTgsMTAyOTYxNTQzOCwxOT
+Y0NzI5NzIwLDQ2MzM5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAy
+MTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC
+0xODMyNjg3NTIwXX0=
 -->
