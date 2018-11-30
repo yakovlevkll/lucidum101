@@ -1,4 +1,6 @@
+Nadia walks along a straight path that goes directly from her house (N) to her Grandmother's house (G). Some of this path is on at ground, and some is downhill or uphill. Nadia walks on  at ground at 5 km/h, walks uphill at 4 km/h, and walks downhill at 6 km/h. It takes Nadia 1 hour and 36 minutes to walk from N to G and 1 hour and 39 minutes to walk from G to N. If 2.5 km of the path between N and G is on  at ground, the total distance from N to G is closest to
 
+(A) 8.0 km (B) 8.2 km (C) 8.1 km (D) 8.3 km (E) 7.9 km
 
 
 Свежие грибы содержат 90% воды, а сухие грибы — 12% воды. Сколько получится сухих грибов из 11 кг свежих?
@@ -472,10 +474,10 @@ $b\*b$ -- чётное число.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1Mzg3MDkxLC0xMjg1MTEyMTE5LC0xMD
-MzNzI3NzM2LDIwNTAzMzk5ODEsMTM0MjQzNTEwMywtMzI0MTA0
-MjQsMTEwODMxMjYwMCw0MTU3MjQ0MTgsMTAyOTYxNTQzOCwxOT
-Y0NzI5NzIwLDQ2MzM5MTAzMywtMTQ3NzA5MTg4Nyw1ODE5ODAy
-MTUsMTY5NTA0MDA5MSwtMTM5NDMyNDY5MywyMDgzNTgzMDM3LC
-0xODMyNjg3NTIwXX0=
+eyJoaXN0b3J5IjpbMTM0NDcyMjUxMiwtMTI4NTExMjExOSwtMT
+AzMzcyNzczNiwyMDUwMzM5OTgxLDEzNDI0MzUxMDMsLTMyNDEw
+NDI0LDExMDgzMTI2MDAsNDE1NzI0NDE4LDEwMjk2MTU0MzgsMT
+k2NDcyOTcyMCw0NjMzOTEwMzMsLTE0NzcwOTE4ODcsNTgxOTgw
+MjE1LDE2OTUwNDAwOTEsLTEzOTQzMjQ2OTMsMjA4MzU4MzAzNy
+wtMTgzMjY4NzUyMF19
 -->
