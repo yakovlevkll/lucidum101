@@ -69,15 +69,10 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
 
 1.  If a toy is sold at € 130, it is purchased by 1000 people. For each euro that increases this price, the number of buyers decreases by 50, respectively.  
     a) Make a graph of the number of toys that are sold i work the sales price and give the formula that expresses it.  
-    b) The cost price of a toy is € 80. Calculate the price  pp, which gives a maximum total benefit.  
-    c) Find the number of toys that are sold if the price is  pp  and calculate the maximum benefit.
+    b) The cost price of a toy is € 80. Calculate the price  $p$, which gives a maximum total benefit.  
+    c) Find the number of toys that are sold if the price is  $p$  and calculate the maximum benefit.
 
-> Si una joguina es ven a 130€, la compren 1000 persones. Per cada euro que agugmenta aquest preu disminueix en 50, respectivament, el nombre de compradors.  
-> a) Feu un grafic del nombre de joguines que es venen eu funcio del preu de venda i doneu la formula que l’expressa.  
-> b) El preu de cost d’una joguina es de 80€. Calculeu el preu  pp, que dona un benefici total maxim.  
-> c) Trobeu el nombre de joguines que es venen si el preu es  pp  i calculeu-ne el benefici maxim.
-
-2.  The tangent line to parabola  y = 3 - x^2y=3−x2  at a point  MM  located within the first quadrant  (x &gt; 0, y &gt; 0)(x>0,y>0), cuts the axis  OXOX  at the point  AA  and axis  OYOY  in point  BB.  
+2.  The tangent line to parabola  $y = 3 - x^2$  at a point  $M$  located within the first quadrant  (x &gt; 0, y &gt; 0)(x>0,y>0), cuts the axis  OXOX  at the point  AA  and axis  OYOY  in point  BB.  
     a) Make a graph of the elements of the problem.  
     b) Find the coordinates of the point  MM  that make the triangle  OABOAB  have the minimum area.
     
@@ -94,5 +89,5 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     a) Calculate the equation of the tangent line at the abscissa point  x = 0x=0.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMTIxMDEwLC0yNjI5MzI5NF19
+eyJoaXN0b3J5IjpbLTE4OTc3MDQwOTksLTI2MjkzMjk0XX0=
 -->
