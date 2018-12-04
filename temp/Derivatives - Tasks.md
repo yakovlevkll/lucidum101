@@ -72,13 +72,13 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     b) The cost price of a toy is € 80. Calculate the price  $p$, which gives a maximum total benefit.  
     c) Find the number of toys that are sold if the price is  $p$  and calculate the maximum benefit.
 
-2.  The tangent line to parabola  $y = 3 - x^2$  at a point  $M$  located within the first quadrant  (x &gt; 0, y &gt; 0)(x>0,y>0), cuts the axis  OXOX  at the point  AA  and axis  OYOY  in point  BB.  
+2.  The tangent line to parabola  $y = 3 - x^2$  at a point  $M$  located within the first quadrant $(x > 0, y > 0)$, cuts the axis  $OX$  at the point  $A$ and axis $OY$ in point $B$.  
     a) Make a graph of the elements of the problem.  
-    b) Find the coordinates of the point  MM  that make the triangle  OABOAB  have the minimum area.
+    b) Find the coordinates of the point $M$  that make the triangle  $OAB$  have the minimum area.
     
-3.  Given the function  f(x) = \sqrt{x}f(x)=x​  and the point  A(2, 0)A(2,0)  located on the axis of the abscissaes.  
-    a) Find the function that expresses the distance from point  AA  to any point of the function graph.  
-    b) Find the coordinates of the point of  f(x)f(x)  closest to  AA.
+3.  Given the function  $f(x) = \sqrt{x}$  and the point  $A(2, 0)$  located on the axis of the abscissaes.  
+    a) Find the function that expresses the distance from point  $A$  to any point of the function graph.  
+    b) Find the coordinates of the point of  $f(x)$  closest to  $A$.
     
 4.  You want to build a swimming pool that has a rectangle and two adjacent semicircles on the base as shown in the figure below.  
     ![Pool](pool.svg)  
@@ -89,5 +89,5 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     a) Calculate the equation of the tangent line at the abscissa point  x = 0x=0.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc3MDQwOTksLTI2MjkzMjk0XX0=
+eyJoaXN0b3J5IjpbLTExMzgxOTk3MDIsLTI2MjkzMjk0XX0=
 -->
