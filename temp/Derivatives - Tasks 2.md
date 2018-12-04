@@ -23,13 +23,12 @@ a. Find the domain.
 b. Calculate the equation of your asymptotes, if you have it.  
 c. Study the growth and degrowth intervals, as well as the absences of their relative extremes, if any, and classify them
 
-6. Let $f$ be the function $f(x) = x \csin(x)$
-Calculeu ta primitiva de la funció f que passa pel punt (\gp/2, 0) (unitats en radians).
+6. Let $f$ be the function $f(x) = x \cdot sin(x)$. Primitive calculus of the function f passing through the point $\left( \dfrac{\pi}{2}, 0 \right)$ (units in radians).
 
 
-7. Sabem que una funció f(x) té per derivada f'(x) = (x + 1)ex i que f(0) = 2.
+7. We know that a function f (x) has by derivative = (x + 1)ex i que f(0) = 2.
 a. Trobeu l’equació de la recta tangent a y = f(x) en el punt de la corba d'abscissa x = 0.
 b. Calculeu l'expressió de f(x).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg3NTAzNTddfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ2MTM3MTRdfQ==
 -->
