@@ -9,7 +9,7 @@ b. Is it possible for the company to sell 20 units of the product? If the price 
 
 3. Consider the function
 $$f(x) =\dfrac{2x + 2}{x^2 - x + 2}$$
-a. Write the equation of the tangent line to the graph of f at the point of cut with the axis of the ordinates.
+a. Write the equation of the tangent line to the graph of $f$ at the point of cut with the axis of the ordinates.
 b. Determine the points of the curve in which the tangent line is horizontal.
 
 4. Let $f(x) = x^2 \cdot e^{-ax}$ where $a \ne 0$.
@@ -28,5 +28,5 @@ c. Study the growth and degrowth intervals, as well as the absences of their rel
 a. Find the equation of the tangent line at $y = f(x)$ at the point of the abscissa curve $x = 0$.
 b. Calculate the expression of $f(x)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI4OTc5MzhdfQ==
+eyJoaXN0b3J5IjpbMTMxMDIyNDU1NF19
 -->
