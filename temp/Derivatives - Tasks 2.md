@@ -14,19 +14,16 @@ a. Write the equation of the tangent line to the graph of f at the point of cut 
 b. Determine the points of the curve in which the tangent line is horizontal.
 
 4. Let $f(x) = x^2 e^{-ax}$ quan $a \ne 0$.
-a. Calculate the value of a because this function has a relative endpoint at the abscissa point x = 2.
-b. Quan a = 2, classifiqueu-ne els extrems relatius.
+a. Calculate the value of a because this function has a relative endpoint at the abscissa point $x = 2$.
+b. When $a = 2$, classify its relative ends.
 
+5. Consider the real variable real function
+$$f(x) = \dfrac{2x^3}{x^2 - 1}$$
+a. Find the domain.  
+b. Calculate the equation of your asymptotes, if you have it.  
+c. Study the growth and degrowth intervals, as well as the absences of their relative extremes, if any, and classify them
 
-5. Considereu la funció real de variable real
-f(x) = \dfrac{2x^3}{x^2 - 1}
-a. Trobeu-ne el domini.
-b. Calculeu l'equació de les seves asímptotes, si en té.
-c. Estudieu-ne els intervals de creixement i de decreixement, així com les abscisses dels seus extrems relatius, si en té, i classifiqueu-los
-
-
-6. Sigui f la funció
-f(x) = x sin(x)
+6. Let $f$ be the function $f(x) = x \csin(x)$
 Calculeu ta primitiva de la funció f que passa pel punt (\gp/2, 0) (unitats en radians).
 
 
@@ -34,5 +31,5 @@ Calculeu ta primitiva de la funció f que passa pel punt (\gp/2, 0) (unitats en 
 a. Trobeu l’equació de la recta tangent a y = f(x) en el punt de la corba d'abscissa x = 0.
 b. Calculeu l'expressió de f(x).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODUyOTc2MV19
+eyJoaXN0b3J5IjpbLTE5Njg3NTAzNTddfQ==
 -->
