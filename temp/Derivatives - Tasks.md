@@ -22,6 +22,15 @@ $$f(x) = \dfrac{1}{x^2-k}$$
 in which $k$ is a real parameter different from 0. For the different values of the parameter $k$:
 a. Calculate the domain and functions of the function.
 b. Calculate the points with a maximum or a relative minimum.
+
+6. Consider a function
+$$f(x) = \dfrac{x + 3}{x - 2}$$
+Calculate the vertical, horizontal and oblique assumptions of function $f$.
+
+7. Consider a function
+$$f(x) = \dfrac{12}{x}$$
+a. Indicate the domain and study its growth.
+b. Calculate the equations of the tangent lines in the graph of f that are parallel to the line y + 3x = 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDkyNTAyNF19
+eyJoaXN0b3J5IjpbNjAyNDAxMTAyXX0=
 -->
