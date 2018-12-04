@@ -25,10 +25,9 @@ c. Study the growth and degrowth intervals, as well as the absences of their rel
 
 6. Let $f$ be the function $f(x) = x \cdot sin(x)$. Primitive calculus of the function f passing through the point $\left( \dfrac{\pi}{2}, 0 \right)$ (units in radians).
 
-
-7. We know that a function f (x) has by derivative = (x + 1)ex i que f(0) = 2.
-a. Trobeu l’equació de la recta tangent a y = f(x) en el punt de la corba d'abscissa x = 0.
-b. Calculeu l'expressió de f(x).
+7. We know that a function $f(x)$ has derivative $f'(x) = (x + 1) \cdot e^x$ and $f(0) = 2$.
+a. Find the equation of the tangent line at $y = f(x)$ at the point of the abscissa curve $x = 0$.
+b. Calculate the expression of $f(x)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ2MTM3MTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDE2NDMwMjZdfQ==
 -->
