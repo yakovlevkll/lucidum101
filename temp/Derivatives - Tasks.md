@@ -53,14 +53,14 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     a) Determine the values of the parameters  aa  and  bb.  
     b) For  a = 1a=1  and  b = 9b=9, determine, if any, the abscissons of the possible ends (maxims or minims) of the function, and classify them.
     
-2.  Let  ff  be a grade 3 polynomial, with a maximum of  (0, 0)(0,0)  and a minimum of  (2, -4)(2,−4).  
+2.  Let  ff  be a grade 3 polynomial, with a maximum of $(0,0)$  and a minimum of  $(2, -4)$.  
     a) Make an approximate graph of  ff.  
     b) Determine the formula of the function.
     
-3.  Below is a graph of a function  ff  that has a relative minimum at the point of abscissa  x = -1x=−1  and a relative maximum at the point of abscissa  x = 1x=1.  
+3.  Below is a graph of a function  ff  that has a relative minimum at the point of abscissa  $x = -1$  and a relative maximum at the point of abscissa  $x = 1$.  
     ![Graph](graph.svg)  
-    a) Knowing that  f&#x27;(0) = 1f′(0)=1, determine the equation of the tangent line at  ff  that goes through the origin of the coordinates.  
-    b) Make a sketch of the function  f&#x27;f′  with the data you have.
+    a) Knowing that  $f'(0) = 1$, determine the equation of the tangent line at  $f$  that goes through the origin of the coordinates.  
+    b) Make a sketch of the function  $f'$  with the data you have.
     
 4.  In an orchard there are planted 50 apple trees. Each tree produces 800 apples. For each additional tree we plant, the production of each tree is reduced by 10 apples. How many trees do we need to plant to obtain the highest possible production? What is this production?
     
@@ -85,9 +85,9 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     Knowing that the perimeter of the pool should be 30 m, calculate its dimensions so that the area is maximum.
     
 5.  Consider the function  
-    f(x) = \dfrac {x^3} {30} - 15x^2 + 2500f(x)=30x3​−15x2+2500  
-    a) Calculate the equation of the tangent line at the abscissa point  x = 0x=0.  
+    $f(x) = \dfrac {x^3} {30} - 15x^2 + 2500$
+    a) Calculate the equation of the tangent line at the abscissa point $x = 0$.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgxOTk3MDIsLTI2MjkzMjk0XX0=
+eyJoaXN0b3J5IjpbMTA4MDg3MjU4MSwtMjYyOTMyOTRdfQ==
 -->
