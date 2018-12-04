@@ -30,7 +30,7 @@ Calculate the vertical, horizontal and oblique assumptions of function $f$.
 7. Consider a function
 $$f(x) = \dfrac{12}{x}$$
 a. Indicate the domain and study its growth.
-b. Calculate the equations of the tangent lines in the graph of f that are parallel to the line y + 3x = 2.
+b. Calculate the equations of the tangent lines in the graph of f that are parallel to the line $y + 3x = 2$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNDAxMTAyXX0=
+eyJoaXN0b3J5IjpbLTYxMzEzMzQ1OF19
 -->
