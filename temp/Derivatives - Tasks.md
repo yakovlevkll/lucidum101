@@ -12,8 +12,11 @@ b. If the function $f$ has relative extremes, indicate the abscisses and classif
 3. The function derived from a function $f$ is
 $$f(x) = (x - 5) \cdot e^{-2x}$$
 a. If you have it, determine and classify the ends of the function $f$.
-b. We know that the graph of $f$ passes through $P(0.2)$. Calculate the equation of the tangent line to
+b. We know that the graph of $f$ passes through $P(0.2)$. Calculate the equation of the tangent line to $f$ passing through this point.
+
+4. Calculate the relative maximums, relative minimums and turning points of the function
+$$f(x) = 2x^3 - 9x^2 + 12x - 4$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NDA1MzM4XX0=
+eyJoaXN0b3J5IjpbLTEyOTU2OTEyOTJdfQ==
 -->
