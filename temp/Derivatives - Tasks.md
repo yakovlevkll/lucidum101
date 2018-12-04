@@ -35,34 +35,36 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
 
 ### Old
 1.  Given the following function:  
-    f(x) = \dfrac{x^2}{x^2 - 1}f(x)=x2−1x2​  
-    a) Determine the domain and values of  xx  for which the  ff  function sign is negative.  
-    b) Determine the horizontal and vertical asymptotes of the  ff  function.
+$f(x) = \dfrac{x^2}{x^2 - 1}$
+a. Determine the domain and values of  xx  for which the  $f$  function sign is negative.  
+b. Determine the horizontal and vertical asymptotes of the  $f$  function.
     
 2.  Consider the function defined by  
-    f(x) = \dfrac{x^2 + 1}{x + 1}f(x)=x+1x2+1​  
-    a) Calculate how much the slope of the tangent line is worth in its graph for the abscissa point  x = 0x=0.  
-    b) Find if there are other points in which the slope of the tangent is equal to that obtained.
+$$f(x) = \dfrac{x^2 + 1}{x + 1}$$
+a. Calculate how much the slope of the tangent line is worth in its graph for the abscissa point  $x = 0$.  
+b. Find if there are other points in which the slope of the tangent is equal to that obtained.
     
 3.  Consider the function  
 $$f(x) = x^3 - ax^2 + 9x + b$$
 a. Determine  aa  and  bb, knowing that the graph of  ff  goes through point $(2, 2)$ and has an endpoint at  $x = 1$. 
 b. For  $a = 6$  and  $b = 0$, determine the possible maximum and minimum of  ff  and classify them.
 
-1.  We know that the function  $f(x) = ax^3 + 3x^2 - bx - \dfrac{1}{3}$​  passes through point  $(1, 0)$, and that the tangent line to the graph of the function at this point is parallel to the straight line  $12x - 2y = 3$.  
+4.  We know that the function
+$$f(x) = ax^3 + 3x^2 - bx - \dfrac{1}{3}$$
+passes through point  $(1, 0)$, and that the tangent line to the graph of the function at this point is parallel to the straight line  $12x - 2y = 3$.  
     a) Determine the values of the parameters  aa  and  bb.  
     b) For  $a=1$  and  $b = 9$, determine, if any, the abscissons of the possible ends (maxims or minims) of the function, and classify them.
     
-2.  Let  $f$  be a grade 3 polynomial, with a maximum of $(0,0)$  and a minimum of  $(2, -4)$.  
+6.  Let  $f$  be a grade 3 polynomial, with a maximum of $(0,0)$  and a minimum of  $(2, -4)$.  
     a) Make an approximate graph of  $f$.  
     b) Determine the formula of the function.
     
-3.  Below is a graph of a function  $f$  that has a relative minimum at the point of abscissa  $x = -1$  and a relative maximum at the point of abscissa  $x = 1$.  
+7.  Below is a graph of a function  $f$  that has a relative minimum at the point of abscissa  $x = -1$  and a relative maximum at the point of abscissa  $x = 1$.  
     ![Graph](graph.svg)  
     a) Knowing that  $f'(0) = 1$, determine the equation of the tangent line at  $f$  that goes through the origin of the coordinates.  
     b) Make a sketch of the function  $f'$  with the data you have.
     
-4.  In an orchard there are planted 50 apple trees. Each tree produces 800 apples. For each additional tree we plant, the production of each tree is reduced by 10 apples. How many trees do we need to plant to obtain the highest possible production? What is this production?
+8.  In an orchard there are planted 50 apple trees. Each tree produces 800 apples. For each additional tree we plant, the production of each tree is reduced by 10 apples. How many trees do we need to plant to obtain the highest possible production? What is this production?
     
 
 ## Functional optimization
@@ -89,5 +91,5 @@ b. For  $a = 6$  and  $b = 0$, determine the possible maximum and minimum of  ff
     a) Calculate the equation of the tangent line at the abscissa point $x = 0$.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwNzUwNTYsLTI2MjkzMjk0XX0=
+eyJoaXN0b3J5IjpbLTYxODk4OTQwLC0yNjI5MzI5NF19
 -->
