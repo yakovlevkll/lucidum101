@@ -53,7 +53,7 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     a) Determine the values of the parameters  aa  and  bb.  
     b) For  a = 1a=1  and  b = 9b=9, determine, if any, the abscissons of the possible ends (maxims or minims) of the function, and classify them.
     
-2.  Let  ff  be a grade 3 polynomial, with a maximum of $(0,0)$  and a minimum of  $(2, -4)$.  
+2.  Let  $f$  be a grade 3 polynomial, with a maximum of $(0,0)$  and a minimum of  $(2, -4)$.  
     a) Make an approximate graph of  ff.  
     b) Determine the formula of the function.
     
@@ -89,5 +89,5 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     a) Calculate the equation of the tangent line at the abscissa point $x = 0$.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDg3MjU4MSwtMjYyOTMyOTRdfQ==
+eyJoaXN0b3J5IjpbLTExNjgzMTExOTksLTI2MjkzMjk0XX0=
 -->
