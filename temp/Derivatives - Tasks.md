@@ -17,6 +17,11 @@ b. We know that the graph of $f$ passes through $P(0.2)$. Calculate the equation
 4. Calculate the relative maximums, relative minimums and turning points of the function
 $$f(x) = 2x^3 - 9x^2 + 12x - 4$$
 
+5. Consider a function
+$$f(x) = \dfrac{1}{x^2-k}$$
+in which $k$ is a real parameter different from 0. For the different values of the parameter $k$:
+a. Calculate the domain and functions of the function.
+b. Calculate the points with a maximum or a relative minimum.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU2OTEyOTJdfQ==
+eyJoaXN0b3J5IjpbMTkwMDkyNTAyNF19
 -->
