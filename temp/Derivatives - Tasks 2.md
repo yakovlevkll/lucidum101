@@ -1,7 +1,7 @@
 ## Derivatives
 
-1. Determine the values of the parameters a, b and c that make the equation curves $f(x) = x^3 + ax + b$ and $g(x) = x^3 + cx^2 - 2$
-have the same tangent line at the point (1, 1).
+1. Determine the values of the parameters $a$, $b$ and $c$ that make the equation curves $f(x) = x^3 + ax + b$ and $g(x) = x^3 + cx^2 - 2$
+have the same tangent line at the point $(1, 1)$.
 
 2. A company sells a product at a price of p euros. The number of units sold depends on the price we set according to the function
 $$V(p) = \dfrac{30p + 10}{p}$$
@@ -29,5 +29,5 @@ c. Study the growth and degrowth intervals, as well as the absences of their rel
 a. Find the equation of the tangent line at $y = f(x)$ at the point of the abscissa curve $x = 0$.
 b. Calculate the expression of $f(x)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTIxNDI3NV19
+eyJoaXN0b3J5IjpbLTc2MDQzMzc5OV19
 -->
