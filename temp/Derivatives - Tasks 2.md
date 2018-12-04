@@ -4,13 +4,13 @@
 have the same tangent line at the point (1, 1).
 
 
-2. Una empresa ven un producte a un preu de p euros. El nombre d’unitats venudes depèn del preu que fixem segons la funció
-V(p) = \dfrac{30p + 10}{p}
-a. Demostreu que, en augmentar els preus, les vendes disminueixen.
-b. Es possible que l’empresa vengui 20 unitats del producte? Si el preu augmenta indefinidament, què passarà amb les vendes?
+2. A company sells a product at a price of p euros. The number of units sold depends on the price we set according to the function
+$$V(p) = \dfrac{30p + 10}{p}$$
+a. Prove that, when prices increase, sales decline.
+b. Is it possible for the company to sell 20 units of the product? If the price increases indefinitely, what will happen to the sales?
 
 
-3. Considereu la funció
+3. Consider the function
 f(x) =\dfrac{2x + 2}{x^2 - x + 2}
 a. Escriviu l’equació de la recta tangent a la gràfica de f en el punt de tall amb l’eix de les ordenades.
 b. Determineu els punts de la corba en què la recta tangent és horitzontal.
@@ -38,5 +38,5 @@ Calculeu ta primitiva de la funció f que passa pel punt (\gp/2, 0) (unitats en 
 a. Trobeu l’equació de la recta tangent a y = f(x) en el punt de la corba d'abscissa x = 0.
 b. Calculeu l'expressió de f(x).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MzgwNjI2XX0=
+eyJoaXN0b3J5IjpbNzAyMTUxNzg3XX0=
 -->
