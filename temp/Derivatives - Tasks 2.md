@@ -2,7 +2,7 @@
 
 1. Determine the values of the parameters $a$, $b$ and $c$ that make the equation curves $f(x) = x^3 + ax + b$ and $g(x) = x^3 + cx^2 - 2$ have the same tangent line at the point $(1, 1)$.
 
-2. A company sells a product at a price of $p$ euros. The number of units sold depends on the price we set according to the function
+2. A company sells a product at a price of $p$ euros. The number of units sold depends on the price according to the function
 $$V(p) = \dfrac{30p + 10}{p}$$
 a. Prove that, when prices increase, sales decline.
 b. Is it possible for the company to sell 20 units of the product? If the price increases indefinitely, what will happen to the sales?
@@ -12,7 +12,7 @@ $$f(x) =\dfrac{2x + 2}{x^2 - x + 2}$$
 a. Write the equation of the tangent line to the graph of f at the point of cut with the axis of the ordinates.
 b. Determine the points of the curve in which the tangent line is horizontal.
 
-4. Let $f(x) = x^2 e^{-ax}$ quan $a \ne 0$.
+4. Let $f(x) = x^2 \cdot e^{-ax}$ quan $a \ne 0$.
 a. Calculate the value of a because this function has a relative endpoint at the abscissa point $x = 2$.
 b. When $a = 2$, classify its relative ends.
 
@@ -28,5 +28,5 @@ c. Study the growth and degrowth intervals, as well as the absences of their rel
 a. Find the equation of the tangent line at $y = f(x)$ at the point of the abscissa curve $x = 0$.
 b. Calculate the expression of $f(x)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTY2MzMwM119
+eyJoaXN0b3J5IjpbLTExNTUyMDQ1ODldfQ==
 -->
