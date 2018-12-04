@@ -46,8 +46,8 @@ b. Calculate the equations of the tangent lines in the graph of f that are paral
     
 3.  Consider the function  
 $$f(x) = x^3 - ax^2 + 9x + b$$
-    a) Determine  aa  and  bb, knowing that the graph of  ff  goes through point $(2, 2)$ and has an endpoint at  $x = 1$. 
-    b) For  $a = 6$  and  $b = 0$, determine the possible maximum and minimum of  ff  and classify them.
+a. Determine  aa  and  bb, knowing that the graph of  ff  goes through point $(2, 2)$ and has an endpoint at  $x = 1$. 
+b. For  $a = 6$  and  $b = 0$, determine the possible maximum and minimum of  ff  and classify them.
 
 1.  We know that the function  $f(x) = ax^3 + 3x^2 - bx - \dfrac{1}{3}$​  passes through point  $(1, 0)$, and that the tangent line to the graph of the function at this point is parallel to the straight line  $12x - 2y = 3$.  
     a) Determine the values of the parameters  aa  and  bb.  
@@ -89,5 +89,5 @@ $$f(x) = x^3 - ax^2 + 9x + b$$
     a) Calculate the equation of the tangent line at the abscissa point $x = 0$.  
     b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDk3NTIwLC0yNjI5MzI5NF19
+eyJoaXN0b3J5IjpbLTE4NDMwNzUwNTYsLTI2MjkzMjk0XX0=
 -->
