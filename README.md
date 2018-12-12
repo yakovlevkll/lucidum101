@@ -1,6 +1,6 @@
-# Essence elements
+# $0 \to *$
 
-_The basics of humankind knowledge._
+_Zero to whatever. The basics of humankind knowledge._
 
 ## Foundation
 
