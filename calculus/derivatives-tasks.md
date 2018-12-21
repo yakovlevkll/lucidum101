@@ -92,6 +92,21 @@
     a. Find the equation of the tangent line at $y = f(x)$ at the point of the abscissa curve $x = 0$.
     b. Calculate the expression of $f(x)$.
 
+22. Let function $f(x) = x^3 - x^2$.
+    a. Find the equation of the tangent line to the graph and that is parallel to the equation line $x + 3y = 0$.
+    b. Calculate, if any, the points of the graph in which the function has a relative maximum or minimum or a turning point.
+
+23. Determine the values of the parameters $a$, $b$ and $c$ that ??? that the equation curves $f(x) = x^3 + ax + b$ and $g(x) = x^3 + cx^2 - 2$ have the same tangent line at the point $(1, 1)$.
+
+24. Consider the function
+    $$f(x) =  \dfrac{2x + 2}{x^2 - x + 2}$$
+    a. Write the equation of the tangent line of the graph $f$ in the intersection point with the axis of the ordinates.
+    b. Determine the points of the curve in which the tangent line is horizontal.
+
+25. We know that a function $f(x)$ is defined for all the real numbers and that is twice asymmetrical. We also know that it has a turning point at the abscissa $x = 2$, that the equation of the tangent line to the graph of the function $f(x)$ in this point is $y = -124x + 249$ and $f(-3) = -4$.
+    a. Calculate $f''(2)$, $f'(2)$ and $f(2)$.
+    b. Calculate $\int_{-3}^{2} f'(x) dx$.
+
 ## Functional optimization
 
 1. If a toy is sold at €130, it is purchased by 1000 people. For each euro that increases this price, the number of buyers decreases by 50, respectively.  
@@ -115,3 +130,5 @@
    $f(x) = \dfrac {x^3} {30} - 15x^2 + 2500$
    a) Calculate the equation of the tangent line at the abscissa point $x = 0$.  
    b) At what point in the curve is the slope of the tangent line minimal? What is the value of the minimum slope?
+
+6. A tree has a volume of 30 m<sup>3</sup> and, for the quality of its wood, it sells at €50 per cubic meter. Every year the tree increases the volume in 3 m<sup>3</sup>. At the same time, the quality of the tree's wood decreases, and also the price, which every year is a cheaper euro per cubic meter. In how many years will we achieve the maximum income for the sale of tree wood? What are these revenues?
