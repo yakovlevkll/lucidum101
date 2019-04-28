@@ -1,28 +1,19 @@
-# $0 \to *$
+# Lucidum 101
 
-_Zero to whatever. The basics of humankind knowledge._
+Main website is [here](https://yakovlevkll.github.io/lucidum101).
 
-## Foundation
+## Description
+
+This non-commercial project aims to create a free textbook for adoption as a worldwide standard in education.
+
+Basic topics are
 
 - Logics
-- Algorithms I
-- Applied math I
-- Physics and chemistry I
-
-## Ground level
-
-- Applied math II (3blue1brown)
-- Physics and Chemistry II
-- Algorithms II
-- Social science
+- Algorithms
+- Applied math
+- Physics, chemistry, biology
 - Computer science
-- Biology I
 
-## Level 1
+## License
 
-- coding
-- 3d modeling
-
-## Level 2
-
-- video-editing
+License description here.
