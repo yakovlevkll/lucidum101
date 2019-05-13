@@ -1,0 +1,19 @@
+{
+  "name": "lucidum-101",
+  "version": "0.0.5",
+  "description": "Free textbook for secondary and higher education",
+  "repository": "git@github.com:yakovlevkll/lucidum-101.git",
+  "author": "Kirill Yakovlev <yakovlev.kll@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.1.0",
+    "mermaid": "^8.0.0",
+    "vuepress": "^1.0.0-alpha.47",
+    "vuepress-plugin-mathjax": "^1.2.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
