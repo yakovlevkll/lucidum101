@@ -17,11 +17,11 @@ more_or_equal = a >= b  # >>> False
 less_or_equal = a <= b  # >>> True
 ```
 
-<Block type="nb">
+::: nb
 
 `=` is very different from `==`
 
-</Block>
+:::
 
 We can chain logic operations by `and` and `or` operators. Also we can use `not` word
 
@@ -64,6 +64,14 @@ Comparison of strings may seem to be weird, but main principle is based on ASCII
 "239" > "30"  # >>> True (bigger wins)
 ```
 
+## Types
+
+One of the very useful checks in programming languages with dynamic typification is a type check
+
+```python
+type("123") is int # >>> False
+type(False) is bool # >>> True
+```
 
 ## If ... else
 
@@ -80,11 +88,11 @@ else:
     print('You are not old enough to drive')
 ```
 
-<Block type="nb">
+::: nb
 
 Pay attention to indentations. Whitespaces is used to group blocks of code in Python. Use the same number of proceeding spaces for every code block
 
-</Block>
+:::
 
 If you want to check for multiple statements, use as much `elif`'s as you need. Keep in mind that after first "true" statement it will stop and won't check statements that follow.
 
