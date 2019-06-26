@@ -1,6 +1,6 @@
 # Differentiation
 
-<Block type="tasks">
+::: task
 
 1. As of a certain date, in this population health measures are applied that allow the number of infected people to decrease according to the function
    $$g(x) = 1,000 * (0.95)^x$$
@@ -109,11 +109,11 @@
     a. Calculate $f''(2)$, $f'(2)$ and $f(2)$.
     b. Calculate $\int_{-3}^{2} f'(x) dx$.
 
-</Block>
+:::
 
 ## Functional optimization
 
-<Block type="tasks">
+::: task
 
 1. If a toy is sold at €130, it is purchased by 1000 people. For each euro that increases this price, the number of buyers decreases by 50, respectively.  
    a) Make a graph of the number of toys that are sold i work the sales price and give the formula that expresses it.  
@@ -139,4 +139,4 @@
 
 6. A tree has a volume of 30 m<sup>3</sup> and, for the quality of its wood, it sells at €50 per cubic meter. Every year the tree increases the volume in 3 m<sup>3</sup>. At the same time, the quality of the tree's wood decreases, and also the price, which every year is a cheaper euro per cubic meter. In how many years will we achieve the maximum income for the sale of tree wood? What are these revenues?
 
-</Block>
+:::

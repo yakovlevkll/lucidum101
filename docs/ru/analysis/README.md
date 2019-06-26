@@ -2,8 +2,8 @@
 
 - 3blue1brown
 
-<Todo>
+::: todo
 
 Много чего написать
 
-</Todo>
+:::

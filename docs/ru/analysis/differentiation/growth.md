@@ -1,6 +1,6 @@
 # Экспоненциальный рост
 
-<Block type="tasks">
+::: task
 
 1. As of a certain date, in this population health measures are applied that allow the number of infected people to decrease according to the function
    $$g(x) = 1,000 * (0.95)^x$$
@@ -11,8 +11,8 @@
    a. Study the growth and decreased function $f$.
    b. If the function $f$ has relative extremes, indicate the abscisses and classify them.
 
-3.  Let $f(x) = x^2 * e^{-ax}$ where $a \ne 0$.
-    a. Calculate the value of a because this function has a relative endpoint at the abscissa point $x = 2$.
-    b. When $a = 2$, classify its relative ends.
+3. Let $f(x) = x^2 * e^{-ax}$ where $a \ne 0$.
+   a. Calculate the value of a because this function has a relative endpoint at the abscissa point $x = 2$.
+   b. When $a = 2$, classify its relative ends.
 
-</Block>
+:::

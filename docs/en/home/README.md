@@ -1,6 +1,6 @@
 # Welcome to Lucidum 101
 
-<Todo>
+::: todo
 
 The resource is under construction.
 
@@ -10,7 +10,7 @@ You can switch to Russian version of the site.
 
 Thank you for understanding.
 
-</Todo>
+:::
 
 ## Description
 
@@ -44,8 +44,8 @@ The modern world suffers from an oversupply of information. It is time to conver
 
 ## License
 
-<Todo>
+::: todo
 
 Choose the right license
 
-</Todo>
+:::

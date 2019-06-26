@@ -24,11 +24,11 @@
 
 1. $(\arcsin x)' = \dfrac{1}{\sqrt{1 - x^2}}$
 2. $(\arccos x)' = -\dfrac{1}{\sqrt{1 - x^2}}$
-<!-- 1. $(\atan x)' = \dfrac{1}{\1 + x^2}$
-1. $(\acot x)' = -\dfrac{1}{\1 + x^2}$ -->
+   <!-- 1. $(\atan x)' = \dfrac{1}{\1 + x^2}$
+3. $(\acot x)' = -\dfrac{1}{\1 + x^2}$ -->
 
 <Todo type="tasks">
 
 Hyperbolic trigonometric functions?
 
-</Todo>
+:::

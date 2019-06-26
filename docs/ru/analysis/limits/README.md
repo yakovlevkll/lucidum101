@@ -1,6 +1,6 @@
 # Пределы
 
-<Block type="tasks">
+::: task
 
 1. Given the following function:
    $f(x) = \dfrac{x^2}{x^2 - 1}$
@@ -11,4 +11,4 @@
    $$f(x) = \dfrac{x + 3}{x - 2}$$
    Calculate the vertical, horizontal and oblique assumptions of function $f$.
 
-</Block>
+:::

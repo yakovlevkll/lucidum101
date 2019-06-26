@@ -1,3 +1,35 @@
+# Равенства
+
+::: task
+
+$2(x-1)=3$;
+$2(x+1)=9$;
+$2(x-2)=2dfrac2$;
+$2(x+2)=8dfrac2$;
+$3(x-1)=7dfrac2$;
+$5(x+1)=7dfrac2$;
+$dfrac2(x-2)=3dfrac2$;
+$dfrac2(x+2)=6dfrac2$;
+$dfrac4(x-5)=2dfrac4$;
+$dfrac4(x+5)=2dfrac4$;
+$dfrac6(x-4)=3dfrac2$;
+$dfrac{10}(x+4)=4dfrac2$;
+
+$dfrac3}{a+b+c}<dfrac1}{a+b}+dfrac1}{b+c}+dfrac1}{c+a}$
+
+Верно при $a>0$, $b>0$, $c>0$.
+
+\fle{If $x$, $y$ and $z$ are positive integers such that $x$ is a factor of $y$, and $x$ is a multiple of $z$, which of the following is not necessarily an integer?}
+@ol
+
+$dfracx+z}{z}$
+$dfracy+z}{x}$
+$dfracx+y}{z}$
+$dfracx\*y}{z}$
+$dfracy\*z}{x}$
+
+:::
+
 $$0.844\ kg \vee 0.8\ kg$$
 
 $$\pounds 0.08 \vee 12\ p$$

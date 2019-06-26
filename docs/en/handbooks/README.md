@@ -1,5 +1,5 @@
 # Handbooks
 
-## Python
+## Coding
 
-Basic syntax, some tips and tricks.
+- [Python basics](/en/handbooks/python/) -- syntax, some tips and tricks
