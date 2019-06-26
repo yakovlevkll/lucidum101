@@ -4,7 +4,7 @@
 set -e
 
 # build
-sudo yarn docs:build
+yarn docs:build
 
 # navigate into the build output directory
 cd docs/.vuepress
@@ -12,7 +12,7 @@ cd docs/.vuepress
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
-sudo chmod 777 -R dist
+# sudo chmod 777 -R dist
 
 cd dist
 
